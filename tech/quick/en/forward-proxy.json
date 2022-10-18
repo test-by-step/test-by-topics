@@ -1,0 +1,13 @@
+{
+    "title":"Forward/Transparent Proxy",
+    "description":"A forward proxy is an Internet-facing proxy located on the local organizational network used to retrieve data from a wide range of sources (in most cases anywhere on the Internet) on behalf of clients located inside the local network.",
+    "key-ideas":[
+        "Positioned in front of client devices.",
+        "Makes network requests on behalf of local devices, also masking the internal IP addresses and port numbers.",
+        "Can be used to break-and-inspect SSL traffic (such as HTTPS) enabling deep inspection on otherwise encrypted connections.",
+        "Can provide data-loss prevention capabilities, anti-virus, anti-malware, anti-spam, and web-filtering.",
+        "Can also cache frequently requested data in order to quickly serve the data to internal clients."
+    ],
+    "related":[],
+    "reference":"https://en.wikipedia.org/wiki/Proxy_server"
+}

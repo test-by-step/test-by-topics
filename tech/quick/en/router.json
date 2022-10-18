@@ -1,0 +1,19 @@
+{
+    "title":"Routers",
+    "description":"A router[a] is a networking device that forwards data packets between computer networks. Routers perform the traffic directing functions on the Internet. A packet is typically forwarded from one router to another router through the networks that constitute an internetwork (e.g. the Internet) until it reaches its destination node.",
+    "key-ideas":[
+        "Routers connect multiple packet-switched or routable networks",
+        "Routers break of broadcast domains",
+        "Routers discover nearby networks in order to build a table of possible routes",
+        "Routers maintain a table of routing information to decide which interface to forward traffic on",
+        "Autonomous Systems (ASs) are logically arranged systems of networks, typically managed by a single proponent and the networks internally are routed by IGPs. Communication between ASs are routed by EGPs.",
+        "Internet is formed by linking ASs together, including backbone networks to local ISPs",
+        "Packet filter firewalls can often be found on routers",
+        "In-band management involves remote access to configuration of the device via the same interfaces and routes accessible and used by standard traffic.",
+        "Out-of-band management involves management via either a physical interface, or a remotely accessible interface that is not accessible to standard traffic.",
+        "SNMP is a common network monitoring/management protocol for network devices",
+        "NETCONF is a protocol that some devices implement to remotely install and modify network configurations using an XML definition known as YANG."
+    ],
+    "related":["snmp","netconf","vlan"],
+    "reference":"https://en.wikipedia.org/wiki/Router_(computing)"
+}

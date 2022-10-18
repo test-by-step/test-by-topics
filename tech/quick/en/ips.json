@@ -1,0 +1,12 @@
+{
+    "title":"Intrusion Protection System",
+    "description":"Intrusion prevention systems (IPS), also known as intrusion detection and prevention systems (IDPS), are network security appliances that monitor network or system activities for malicious activity. The main functions of intrusion prevention systems are to identify malicious activity, log information about this activity, report it and attempt to block or stop it.",
+    "key-ideas":[
+        "IPSs are active devices.",
+        "Notifies, alerts, logs, blocks, drops, and/or modifies.",
+        "Most configurations require installation inline to traffic, potentially increasing latency.",
+        "Does NOT correlate."
+    ],
+    "related":["ids","firewall"],
+    "reference":"https://en.wikipedia.org/wiki/Intrusion_detection_system"
+}

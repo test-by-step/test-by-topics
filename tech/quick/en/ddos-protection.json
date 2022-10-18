@@ -1,0 +1,16 @@
+{
+    "title":"Distributed Denial of Service (DDoS) Protection",
+    "description":"DDoS protection aims to eliminate, mitigate, or reduce the effects of a denial of service attack a large number of distributed and/or spoofed sources.",
+    "key-ideas":[
+        "Blackhole filtering routes DDoS traffic to a null interface, silently dropping the connection so that it doesn't take up any more resources.",
+        "Load balancing can reduce the impact of massive numbers of connections by spreading the computation load amongst a pool of back-end servers.",
+        "SOAR can help to trigger a defense and begin filtering DDoS traffic early by automatically triggering complicated responses.",
+        "Remote Triggered Black Hole filtering helps to filter DDoS traffic by signaling edge network devices to drop DDoS traffic before it enters the internal network and begins demanding resources.",
+        "Content delivery networks can assist in mitigating DDoS by servering static content from multiple dispersed servers across a large geographic area.",
+        "Cloud providers can provide automatic scaling to reduce the impact of DDoS.",
+        "Reflection, amplification, and spoofing attacks impose additional challenges as effective and smart source address filtering is needed so that a self imposed DDoS is not affected.",
+        "Stateful firewalls can assist in dropping common protocol based DoS attacks that may be used in a DDoS attack, but is not in itself sufficent to mitigate a Distributed attack."
+    ],
+    "related":["ddos","dos"],
+    "reference":"https://www.nist.gov/programs-projects/advanced-ddos-mitigation-techniques"
+}

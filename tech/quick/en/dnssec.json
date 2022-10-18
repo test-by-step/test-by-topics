@@ -1,0 +1,12 @@
+{
+    "title":"Domain Name System Security (DNSSEC)",
+    "description":"The Domain Name System Security Extensions (DNSSEC) is a suite of extension specifications by the Internet Engineering Task Force (IETF) for securing data exchanged in the Domain Name System (DNS) in Internet Protocol (IP) networks. The protocol provides cryptographic authentication of data, authenticated denial of existence, and data integrity, but not availability or confidentiality. ",
+    "key-ideas":[
+        "Provides integrity and authentication of DNS answers.",
+        "Does NOT provide confidentiality. The payload is not encrypted.",
+        "Digitally signed answers from DNSSEC protected zones.",
+        "Trust anchors are the keys or DS records that provide a trusted root that can form the root of an authentication chain of secured records."
+    ],
+    "related":[],
+    "reference":"https://en.wikipedia.org/wiki/Domain_Name_System_Security_Extensions"
+}

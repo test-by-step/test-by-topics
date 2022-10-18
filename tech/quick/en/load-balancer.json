@@ -1,0 +1,13 @@
+{
+    "title":"Load Balancer",
+    "description":"Load balancing refers to efficiently distributing incoming network traffic across a group of backend servers, also known as a server farm or server pool.",
+    "key-ideas":[
+        "Services, servers, networks, network segments, or power.",
+        "Associated most commonly with high-availability.",
+        "May be associated with redundancy and/or scalability.",
+        "Algorithms: round robin, random, hash, IP hash, least connections, least time.",
+        "Can often automatically detect new servers or service providers and add them to the pool (scalable)."
+    ],
+    "related":["reverse-proxy","failover","active-active","active-passive"],
+    "reference":"https://www.nginx.com/resources/glossary/load-balancing/"
+}

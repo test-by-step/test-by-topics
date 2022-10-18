@@ -1,0 +1,13 @@
+{
+    "title":"Switch Port Analyzer (SPAN) Port",
+    "description":"Switch Port Analyzer (SPAN) is switch specific tool that copies Ethernet frames passing through switch ports and send these frames out to specific port.",
+    "key-ideas":[
+        "Operates at Layer 2 (Data Link); almost always associated with switches (as opposed to bridges or hubs, which would be better described as network taps).",
+        "Copies all traffic from specified interfaces to a single isolated interface.",
+        "Used by IDSs and network monitors to view and aggregate traffic that would otherwise be logically segmented by VLANs.",
+        "Remote SPAN ports are possible using either 802.1Q VLAN headers to trunk traffic across layer 2, or using tunneling over IP on layer 3 switches.",
+        "Generally synonymous with port mirroring."
+    ],
+    "related":["traffic-mirroring","port-mirroring"],
+    "reference":""
+}

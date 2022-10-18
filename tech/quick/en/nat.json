@@ -1,0 +1,12 @@
+{
+    "title":"Network address translation (NAT) gateway",
+    "description":"Network address translation (NAT) is a method of mapping an IP address space into another by modifying network address information in the IP header of packets while they are in transit across a traffic routing device.",
+    "key-ideas":[
+        "Map internal private network addresses and ports to Internet-routable addresses and ports.",
+        "Use port forwarding on a NAT gateway to expose internal, privately addresses services to the Internet.",
+        "Usually only applies to IPv4.",
+        "Many-to-one NATs translate the many internal private IP addresses to a single external, routeable IP address."
+    ],
+    "related":[],
+    "reference":"https://en.wikipedia.org/wiki/Network_address_translation"
+}

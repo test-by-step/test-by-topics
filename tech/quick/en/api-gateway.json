@@ -1,0 +1,15 @@
+{
+    "title":"Application Programming Interface (API) Gatweay / Extensible Markup Language (XML) Gateway",
+    "description":"An API gateway takes all API calls from clients, then routes them to the appropriate microservice with request routing, composition, and protocol translation.",
+    "key-ideas":[
+        "Provides an addressable endpoint location for remote applications to access microservices or functions.",
+        "The API/XML gateway receives the requests on behalf of the user, routes it to the service, and returns the response from the back-end service to the user on behalf of the server.",
+        "Can check authorization for access to service using API keys and JWTs and reject unauthorized service requests.",
+        "Typically accessed via HTTP/S requests.",
+        "API gateways are associated with RESTful services and communicate user data using querystring variables or JSON objects in the document body.",
+        "XML gateways communicate user data using a structured document format (defined in XML).",
+        "Placed logically in front of a load balancer that will dynamically provision and deprovision back-end service functions as demand changes."
+    ],
+    "related":["waf","reverse-proxy","rest","load-balancer"],
+    "reference":"https://www.nginx.com/learn/api-gateway/"
+}

@@ -1,0 +1,26 @@
+{
+    "languages":["en"],
+    "en":{
+        "load-balancer":"Load Balancer",
+        "ids":"Intrusion Detection System (IDS), NIDS, HIDS, WIDS",
+        "ips":"Intrusion Prevention System (IPS), NIPS, HIPS, WIPS",
+        "waf":"Web Application Firewall",
+        "nac":"Network Access Control",
+        "vpn":"Virtual Private Network",
+        "dnssec":"Domain Name System Security Extensions (DNSSEC)",
+        "firewall":"Firewall/unified threat management (UTM)/next-generation firewall (NGFW)",
+        "nat":"Network Access Translation (NAT) Gateway",
+        "internet-gateway":"Internet Gateway",
+        "forward-proxy":"Forward/transparent proxy",
+        "reverse-proxy":"Reverse proxy",
+        "ddos-protection":"Distributed Denial-of-Service (DDoS) Protection",
+        "router":"Routers",
+        "mail-security":"Mail Security",
+        "api-gateway":"Application Programming Interface (API) Gateway/Extensible Markup Language (XML) Gateway",
+        "traffic-mirroring":"Traffic Mirroring",
+        "span-port":"Switch Port Analyzer (SPAN) Port",
+        "port-mirroring":"Port Mirroring",
+        "vpc":"Virtual Private Cloud",
+        "network-tap":"Network"
+    }
+}

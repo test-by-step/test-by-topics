@@ -1,0 +1,11 @@
+{
+    "title":"Network Access Control",
+    "description":"Network access control (NAC), also known as network admission control, is the process of restricting unauthorized users and devices from gaining access to a corporate or private network. NAC ensures that only users who are authenticated and devices that are authorized and compliant with security policies can enter the network.",
+    "key-ideas":[
+        "Agented requires an application installed on end-user devices that actively scan and monitor the host for policy violations.",
+        "Agentless relies on a device or service monitoring the network activity and visible services.",
+        "NAC might require: fully patched OS and applications, no unauthorized applications, proper group and user policies, virus free."
+    ],
+    "related":[],
+    "reference":"https://www.fortinet.com/resources/cyberglossary/what-is-network-access-control"
+}

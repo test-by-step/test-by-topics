@@ -1,0 +1,14 @@
+{
+    "title":"Virtual Private Network",
+    "description":"A virtual private network (VPN) extends a private network across a public network and enables users to send and receive data across shared or public networks as if their computing devices were directly connected to the private network.",
+    "key-ideas":[
+        "VPNs allow remote users access to private internal/corporate network.",
+        "Split tunneling allows some traffic to be routed over a VPN connection, and the rest to travel on the open network.",
+        "VPNs create tunnels using IPSec.",
+        "Likely to be paired with NAC before allowing connection to network.",
+        "Provides Confidentiality ONLY over the Internet, not internally.",
+        "Does not implicitly provide integrity."
+    ],
+    "related":["ipsec"],
+    "reference":"https://en.wikipedia.org/wiki/Virtual_private_network"
+}

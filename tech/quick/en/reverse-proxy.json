@@ -1,0 +1,13 @@
+{
+    "title":"Reverse Proxy",
+    "description":"a reverse proxy is the application that sits in front of back-end applications and forwards client (e.g. browser) requests to those applications. Reverse proxies help increase scalability, performance, resilience and security.",
+    "key-ideas":[
+        "Placed in front of the back-end services.",
+        "Connections are returned to clients as if they came from the backend servers, but the connection in both directions goes through the proxy.",
+        "Reverse Proxies with specialized hardware can increase performance by decrypting SSL connections. This also allows it to inspect otherwise encrypted traffic.",
+        "Reverse Proxies with Web Application Firewalls can inspect and filter traffic before passing it on the the servers.",
+        "Often installed with a load balancer to balance connections across a pool of back end servers."
+    ],
+    "related":["load-balancer","waf"],
+    "reference":"https://en.wikipedia.org/wiki/Reverse_proxy"
+}

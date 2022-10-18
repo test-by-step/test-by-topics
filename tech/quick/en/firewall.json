@@ -1,0 +1,19 @@
+{
+    "title":"Firewall/unified threat management (UTM)/next-generation firewall (NGFW)",
+    "description":"In computing, a firewall is a network security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules.[1] A firewall typically establishes a barrier between a trusted network and an untrusted network, such as the Internet.",
+    "key-ideas":[
+        "Basic firewalls operate at OSI Network (3) Layer, NGFW/UTM will operate at more layers.",
+        "Stateful or stateless.",
+        "Pre-defined list of rules, evaluated for each packet sequentially.",
+        "Implied deny is common, otherwise 'deny all' at the end is a typically desirable.",
+        "Typically protects networks (as apposed to applications or services).",
+        "Stateless firewalls evaluate each packet individually, without tracking or remembering sessions or other context.",
+        "Stateful firewalls remember state information and can filter based on context (not necessarily packet context) such as if the source has too many open connections or incomplete TCP handshakes.",
+        "Next Generation Firewalls aim to operate at more levels of the OSI model (up to Application).",
+        "NGFW and UTMs can provide many more services on top of routing and filtering such as anti-virus, anti-malware, DLP.",
+        "UTM and NGFW are sometimes used interchangeably, but UTMs are more likely to distinguished as a comprehensive and immutable suite on a single device.",
+        "NGFWs typically can't inspect or filter on encrypted content (such as HTTPS)."
+    ],
+    "related":[],
+    "reference":"https://en.wikipedia.org/wiki/Firewall_(computing)"
+}

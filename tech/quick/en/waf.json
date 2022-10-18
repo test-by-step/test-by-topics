@@ -1,0 +1,12 @@
+{
+    "title":"Web Application Firewall",
+    "description":"A web application firewall (WAF) is a specific form of application firewall that filters, monitors, and blocks HTTP traffic to and from a web service. By inspecting HTTP traffic, it can prevent attacks exploiting a web application's known vulnerabilities, such as SQL injection, cross-site scripting (XSS), file inclusion, and improper system configuration.",
+    "key-ideas":[
+        "Focus on HTTP or HTTPS traffic.",
+        "Generally installed as a reverse proxy - WAF answers can be distinguished in that it will focus on inspection of HTTP traffic and common web attacks.",
+        "Protects against exploits such as SQL injection, XSS, CSRF, file inclusion, domain traversal.",
+        "Distinct from API Gateways; API gateways will focus on access to services and endpoints (e.g. REST) and authentication to microservices."
+    ],
+    "related":["firewall","reverse-proxy"],
+    "reference":"https://en.wikipedia.org/wiki/Web_application_firewall"
+}

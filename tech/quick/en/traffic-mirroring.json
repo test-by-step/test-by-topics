@@ -1,0 +1,9 @@
+{
+    "title":"Traffic Mirroring",
+    "description":"Traffic mirroring copies or mirrors traffic from one or multiple interfaces onto another interface for inspection, logging, and correlation.",
+    "key-ideas":[
+        "Traffic from logically or physically segmented networks or interfaces can be reflected on another, isolated interface that can be used for intrusion detection, network monitoring, or forensics."
+    ],
+    "related":["span-port","network-tap","port-mirroring","vpc"],
+    "reference":""
+}

@@ -1,0 +1,11 @@
+{
+    "title":"Internet Gateway",
+    "description":"A gateway is a piece of networking hardware or software used in telecommunications networks that allows data to flow from one discrete network to another. Gateways are distinct from routers or switches in that they communicate using more than one protocol to connect multiple networks.",
+    "key-ideas":[
+        "Connect device or network to the internet, typically translating between non-routable protocols and internet-routeable.",
+        "Cable or DSL gateway.",
+        "Local routers might sometimes be called an internet gateway to connect devices to the Internet."
+    ],
+    "related":[],
+    "reference":"https://en.wikipedia.org/wiki/Gateway_(telecommunications)"
+}

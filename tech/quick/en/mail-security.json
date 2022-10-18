@@ -1,0 +1,19 @@
+{
+    "title":"Mail Security",
+    "description":"Mail Security are the policies, protections, mitigations, and procedures used to protect user and organizational email transactions.",
+    "key-ideas":[
+        "S/MIME uses PKI and X.509 certificates and PKI to provide confidentiality and integrity to email.",
+        "PGP uses asymmetric keys and a web-of-trust to provide confidentiality and integrity.",
+        "S/MIME and PGP use a hybrid cryptosystem of both asymmetric and symmetric cryptography using enveloping (symmetric) and digital signatures (asymmetric).",
+        "Anti-virus and anti-malware scanning is an active mitigation on mail servers that look for malicous signatures in attachments.",
+        "Anti-spam and anti-phishing filters is an active mitigation on mail servers that looks for suspicious or illegitimate message behaviors, phrases, or terms.",
+        "DLP filters scan outgoing mail for regulated, proprietary, or sensitive data and prevents its transmission.",
+        "Encrypted messages can be troubling for anti-virus, anti-spam, anti-phishing, and DLP filters that can't scan encrypted messages.",
+        "DKIM uses a digital signature in the message body and a public key stored in DNS records for a receiving mail server to verify that the message has come from the domain it claims to have come from.",
+        "SPF allows sending mail servers to verify that the transmitting IP is authorized to send mail on behalf of a domain by checking IPs authorized in DNS records.",
+        "DMARC allows domains to specify policy for mail servers to use to verify whether a mail message is authorized from a domain.",
+        "DMARC extends DKIM and SPF."
+    ],
+    "related":["smime","dkim","dmarc","phishing","spam"],
+    "reference":""
+}

@@ -1,0 +1,12 @@
+{
+    "title":"Port Mirroring",
+    "description":"Port mirroring is used on a network switch to send a copy of network packets seen on one switch port (or an entire VLAN) to a network monitoring connection on another switch port.",
+    "key-ideas":[
+        "Operates at layer 2 (data link); almost always associated with switches (and not bridges or hubs).",
+        "Copies all traffic from specified interfaces to a single isolated interface.",
+        "Used by IDSs and network monitors to view and aggregate traffic that would otherwise be logically segmented by VLANs.",
+        "Generally synonymous with span ports."
+    ],
+    "related":["span-port","traffic-mirroring"],
+    "reference":"https://en.wikipedia.org/wiki/Port_mirroring"
+}

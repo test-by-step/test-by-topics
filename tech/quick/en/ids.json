@@ -1,0 +1,12 @@
+{
+    "title":"Intrusion Detection System",
+    "description":"An intrusion detection system (IDS) is a device or software application that monitors a network or systems for malicious activity or policy violations.",
+    "key-ideas":[
+        "IDSs are passive devices, they are NOT an active mitigation.",
+        "Generally not inline to traffic, connected via tap or span port",
+        "Notifies, alerts, and/or logs.",
+        "Does NOT correlate."
+    ],
+    "related":["ips","firewall"],
+    "reference":"https://en.wikipedia.org/wiki/Intrusion_detection_system"
+}
