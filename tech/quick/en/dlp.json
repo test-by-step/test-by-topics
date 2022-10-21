@@ -1,0 +1,15 @@
+{
+    "title":"Data Loss Prevention (DLP)",
+    "description":"Data loss prevention, or DLP, is a set of technologies, products, and techniques that are designed to stop sensitive information from leaving an organization.",
+    "key-ideas":[
+        "Network DLP watches data in motion as it traverses the organizational network and is positioned at the perimiter of the organization to stop protected data from exfiltrating the network.",
+        "Endpoint DLP protects data on endpoint devices in the organization by using an agent software on the endpoint.",
+        "Endpoint DLP is most associated with data in use, data at rest, but can watch for data in motion as it attempts to leave the endpoint.",
+        "Cloud DLP shares the features of Network DLP, but is provisioned by the cloud service provider (CSP) and connected via Software Defined Networking.",
+        "Encryption, either encrypted connections or encrypted files or filesystems, can prevent DLP applications from properly identifying data.",
+        "Steganography attempts to circumvent DLP by hiding data in other innocuous files, such as in images; it is NOT encryption.",
+        "DLP may take active protection measures by quarentining or delaying actions until approved, blocking actions or connections, and/or deleting files or stripping/replacing sensitive data from files or filesystems and connections."
+    ],
+    "related":["ids","nac","mail-security","antivirus"],
+    "reference":"https://www.cisco.com/c/en/us/products/security/email-security-appliance/data-loss-prevention-dlp.html"
+}

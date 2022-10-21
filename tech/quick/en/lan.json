@@ -1,0 +1,15 @@
+{
+    "title":"Local Area Network (LAN)",
+    "description":"A local area network (LAN) is a collection of devices connected together in one physical location, such as a building, office, or home. A LAN can be small or large, ranging from a home network with one user to an enterprise network with thousands of users and devices in an office or school.",
+    "key-ideas":[
+        "LANs connected devices and networks that share a common scope, typically an organization, campus, or business.",
+        "Typically a collection of many collaborating sub-networks with a local or private address space.",
+        "Physical LANs are typically restricted to a limited geographic area, but remote stations can be pulled in to the LAN with VPNs.",
+        "LANs cannot connect to or communicate with other adjacent LANs without attaching to a Wide Area Network to route between them.",
+        "LANs are almost always associated with Layer 1, 2, and 3 (physical, data link, and network).",
+        "Local Area Networks can be virtualized in cloud with SDN, however this is not referred to as Virtual Local Area Networks.",
+        "Virtual Local Area Networks (VLANs) are logical segmentations that managed switches can specify on an interface-by-interface basis that prevents interfaces on different VLANs from communicating, functionally creating new subnetworks."
+    ],
+    "related":["vlan","wan"],
+    "reference":""
+}

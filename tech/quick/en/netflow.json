@@ -1,0 +1,11 @@
+{
+    "title":"Netflow",
+    "description":"Netflow provides the ability to collect IP network traffic as it enters or exits an interface. By analyzing the data provided by NetFlow, a network administrator can determine things such as the source and destination of traffic, class of service, and the causes of congestion.",
+    "key-ideas":[
+        "Collect statistics on flows (connections or streams of data) as they pass through a router and forward it to an aggregator for central processing.",
+        "Flows are uniquely identified by a number of packet factors such as source and destination addresses and ports, IP protocol, IP type of service and the ingress port.",
+        "Netflow allows network administrators to identify metrics for source and destination locations, service classes, sources of congestion, and network useage."
+    ],
+    "related":[""],
+    "reference":"https://en.wikipedia.org/wiki/NetFlow"
+}

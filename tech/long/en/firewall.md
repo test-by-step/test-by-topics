@@ -12,7 +12,7 @@ Firewalls can be stateful or stateless.
 
 ### Stateless Firewalls
 
-Also referred to as *packet-filter*s or packet-filter firewalls.
+Also referred to as **packet-filter**s or packet-filter firewalls.
 
 Stateless firewalls do not keep track of sessions or traffic flows. They only evaluate each packet on its own merit and apply the defined traffic rules individually.
 

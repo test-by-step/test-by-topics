@@ -87,6 +87,28 @@ Data-loss prevention filters can be installed on organizations mail servers to s
 
 Like spam filters, DLP filters can be circumvented by encryption. It is possible to filter all attachments or encrypted messages to addresses outside the organization.
 
+## Mitigation Actions
+
+Mail servers can take several actions to actively protect mail messages, and the actions are very similar to DLP and Antivirus:
+
+### Quarentine
+
+For e-mail quarentining is generally achieved using Spam folders. Spam that isn't judged explicitly prohibitable will be automatically directed to a separate folder that can be manually accessed if it is mis-classified.
+
+### Block or delete
+
+The worst offending e-mail messages can be blocked, dropped or deleted by the mail server if it demonstrably breaks the server policy.
+
+### Strip/sanitize
+
+The mail server can strip images, links, and attachments that might be dangerous from the message. Often, messages from outside the organization will have stricter sanitization policies than internal messages.
+
+Attachments can be outright removed, truncated, or replaced with notification message (a processes sometimes referred to as Tombstoning).
+
+### Truncate
+
+Truncation will generally mean that an attachment is replaced with a 0 byte replacement, rendering it harmless.
+
 ## References
 
 [1] https://en.wikipedia.org/wiki/S/MIME

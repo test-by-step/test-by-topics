@@ -1,0 +1,14 @@
+{
+    "title":"Security Groups",
+    "description":"Security Groups gathers subjects such as users, accounts, and devices into groups that can be managed together to specify policies, privileges, and permissions for all members or entities assigned to the group.",
+    "key-ideas":[
+        "Gather subjects such as users, accounts, devices, or other LDAP objects into manageable groups.",
+        "Segments users and entities into logical groups that can be granted separate permissions and access rights.",
+        "Policies can be easily managed, updated, and deployed to all entities in the group.",
+        "Used to manage access to resources or objects for the entire group.",
+        "Security Groups are similar to RBAC, where permissions are assigned based on a defined role - Security Groups can be used as an RBAC strategy.",
+        "Can be used in tandem with NAC to permit, deny, or place devices into a different VLAN based on security group policies."
+    ],
+    "related":["rbac"],
+    "reference":"https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/manage/understand-security-groups"
+}

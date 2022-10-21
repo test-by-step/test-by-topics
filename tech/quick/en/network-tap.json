@@ -1,0 +1,12 @@
+{
+    "title":"Network Tap",
+    "description":"A network tap is a system that monitors events on a local network. A tap is typically a dedicated hardware device, which provides a way to access the data flowing across a computer network. ",
+    "key-ideas":[
+        "Does not involve packet switching; unlikely to be associated with a switch but may relate to a hub.",
+        "Interacts with the link as a shared medium, passively observing traffic as it flows through a network link.",
+        "Often used by network monitoring or IDS devices to passively observe traffic as it passes through a network.",
+        "Taps were classicly used with shared bus connections such as ethernet over coax to attach devices to the shared medium."
+    ],
+    "related":[""],
+    "reference":"https://en.wikipedia.org/wiki/Network_tap"
+}

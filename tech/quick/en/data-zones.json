@@ -1,0 +1,16 @@
+{
+    "title":"Data Zones",
+    "description":"Data lake zones allow logical or physical segmentation of data that keep data organized and/or secured in large pools of data (data lakes).",
+    "key-ideas":[
+        "Attaches data to business rules that may relate to policy, or in some industries to regulations.",
+        "Transient zones are initial landing zones for unprocessed and untagged data.",
+        "Data comes to initial rest in the Raw Zone, it should be identified by this point and sensitive data should be encrypted.",
+        "Data in Refined or Curated Zones has been enriched or refined, both adding context or formatting and/or removing unhelpful data for the purpose of use by specific business or organization unit.",
+        "Refined or Curated Zone data is organized into data marts intended for specific units.",
+        "Data is promoted into Trusted zones when it has become a source of truth for the organization; it is unlikely to be refined or changed any further and available as authoritative to all business units.",
+        "Data is promoted from refined to trusted zones as it becomes authoritative.",
+        "Data marts are groups of data bound by common business rules."
+    ],
+    "related":["big-data"],
+    "reference":""
+}

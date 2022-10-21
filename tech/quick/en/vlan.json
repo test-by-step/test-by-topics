@@ -1,0 +1,16 @@
+{
+    "title":"Virtual Local Area Network",
+    "description":"Virtual LAN (VLAN) is a concept in which we can divide the devices logically on layer 2 (data link layer).",
+    "key-ideas":[
+        "Breaks up broadcast domains.",
+        "Interfaces with different VLANs cannot be switched directly between eachother; VLANs on a layer 2 switch are mutually exclusive.",
+        "Communication between VLANs requires a layer 3 device.",
+        "Access links allow access for a single end-use device with a single VLAN.",
+        "Trunk links allows a link to aggregate various VLAN traffic onto a single link for transmission to an adjacent switch, where traffic is again separated into their appropriate VLANs.",
+        "IEEE 802.1Q is the standard that specifies how ethernet frames are tagged with VLAN numbers in order to be labeled (using a frame header called 802.1Q header), so the can be properly switched after traversing a trunk.",
+        "VLANs provide improved efficiency and scalability for less cost, as subnets can be created without the need for new hardware or reconfiguring the physical connections on existing hardware.",
+        "VLANs provide inherent additional security as VLANs segment the network so that a compromised device cannot see devices outside its VLAN."
+    ],
+    "related":["lan","802dot1q","trunk","switch"],
+    "reference":"https://www.geeksforgeeks.org/virtual-lan-vlan/"
+}

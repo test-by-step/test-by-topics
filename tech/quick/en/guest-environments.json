@@ -1,0 +1,12 @@
+{
+    "title":"Guest Environments",
+    "description":"Guest environments are a logical segmentation technique which are used to grant limited network and/or system access on the organizational network to untrusted or un-credentialed users or applications who have a legitimate use for network resources but who are not authorized access to other organizational resources.",
+    "key-ideas":[
+        "Can be used to permit limited access to business partners or contractors to organizational network resources.",
+        "Access needs to be limited to the least amount of access and privleges needed to accomplish the goals outlined in the documentation such as BPA, ISA, and/or SLA.",
+        "Identity federation can be used to authorize access to partnered organizations.",
+        "Can also be used to guest access to network or desktop resources."
+    ],
+    "related":["federation"],
+    "reference":""
+}

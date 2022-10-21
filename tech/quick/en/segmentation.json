@@ -1,0 +1,15 @@
+{
+    "title":"Segmentation",
+    "description":"Segmentation divides a computer network into smaller parts. The purpose is to improve network performance and security. Other terms that often mean the same thing are network segregation, network partitioning, and network isolation.",
+    "key-ideas":[
+        "Physical segmentation partitions network portions using physical hardware such as switches and routers and the physical connections linking them together.",
+        "Logical segmentation relies on rules, routes, vlans, and subnets to define network behaviors that force segmentation as traffic is moved about the network.",
+        "VLANs segment Local Area Networks based on data link (layer 2) layer configurations.",
+        "IP subnets segment Local Area Networks based on network layer (layer 3) layer 3 configurations.",
+        "Access control lists also segment networks based on layer 3 (network) rules.",
+        "Next generation firewalls can segment networks up through application (7) layer.",
+        "Improves performance by limiting broadcast scope and propogation."
+    ],
+    "related":["microsegmentation","screened-subnet"],
+    "reference":"https://www.cisco.com/c/en/us/products/security/what-is-network-segmentation.html"
+}

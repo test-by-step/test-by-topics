@@ -12,7 +12,8 @@
         "DKIM uses a digital signature in the message body and a public key stored in DNS records for a receiving mail server to verify that the message has come from the domain it claims to have come from.",
         "SPF allows sending mail servers to verify that the transmitting IP is authorized to send mail on behalf of a domain by checking IPs authorized in DNS records.",
         "DMARC allows domains to specify policy for mail servers to use to verify whether a mail message is authorized from a domain.",
-        "DMARC extends DKIM and SPF."
+        "DMARC extends DKIM and SPF.",
+        "Email servers can actively protect messages by: stripping attachments, replacing attachments with a notification (sometimes called Tombstoning), replacing or stripping links and/or images."
     ],
     "related":["smime","dkim","dmarc","phishing","spam"],
     "reference":""

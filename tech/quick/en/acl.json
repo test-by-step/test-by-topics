@@ -1,0 +1,12 @@
+{
+    "title":"Access Control List (ACL) / Network Access Control Lists (NAC Lists)",
+    "description":"An access-control list (ACL) is a list of permissions associated with a system resource (object). An ACL specifies which users or system processes are granted access to objects, as well as what operations are allowed on given objects.",
+    "key-ideas":[
+        "ACLs are a sequence of rules, evaluated in order; evaluation stops once a rule matches conditions and executes its specified action.",
+        "Can be applied to files, objects, database entries, active directory entries, or networks.",
+        "Network ACLs are packet filters that permit or deny traffic based on packet source and destination addresses, ports, and protocols.",
+        "NAC Lists are packet-filter firewalls and typically a core feature of routers."
+    ],
+    "related":[""],
+    "reference":"https://en.wikipedia.org/wiki/Access-control_list"
+}

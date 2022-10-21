@@ -1,0 +1,12 @@
+{
+    "title":"Screened Subnet",
+    "description":"In network security a screened subnet refers to the use of one or more logical screening routers as a firewall to define three separate subnets: an external router (sometimes called an access router), that separates the external network from a perimeter network, and an internal router (sometimes called a choke router) that separates the perimeter network from the internal network.",
+    "key-ideas":[
+        "A two firewall solution that creates a semi-public subnet between the internal organization's network and the external Internet.",
+        "Two or more firewalls, different from screened host firewall, which is a single firewall creating two subnets.",
+        "Allows protected public access to public servers such as for web or mail, while preventing public access to the internal network.",
+        "Also called DMZ, demilitarized zone, perimeter network, or bastion hosts."
+    ],
+    "related":["firewall"],
+    "reference":"https://en.wikipedia.org/wiki/Screened_subnet"
+}

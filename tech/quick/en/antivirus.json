@@ -1,0 +1,17 @@
+{
+    "title":"Antivirus",
+    "description":"Antivirus software (abbreviated to AV software), also known as anti-malware, is a computer program used to prevent, detect, and remove malware. ",
+    "key-ideas":[
+        "Signature-based antivirus relies on a database of virus definitions, strucutres, and actions to detect potential viruses.",
+        "Signature-based techniques cannot detect new or sufficiently mutated polymorphic viruses.",
+        "Heuristic-based antivirus relise on complex algorithms to identify both novel viruses and polymorphic viruses that have mutated themselves in an attempt to circumvent detection.",
+        "Quarantining suspected viruses moves the virus to an isolated location where it cannot execute, requiring user action to assess the file, allowing users or administrators to elect to restore and continue to execute the file if the user thinks the action is a false positive.",
+        "Blocking, dropping, or deleting the file or connection can prevent download, transfer, copying, or execution of a file that meets virus signature definitions; this action does not allow restoration if the action is a false positive.",
+        "Replacing the file with a message such as a text file can be used with deletion or quarantine to alert the user to the action; this is particularly useful if the file is removed while traversing the network rather than at the endpoint; also called tombstoning.",
+        "Sandboxing moves a virus into a secured, isolated environment where it can be observed, studied, and even executing without affecting production environments. This is useful to update virus definitions and heuristics.",
+        "Signatures need to be constantly kept up to date to protect against viruses using signature-based detection.",
+        "False positives can interrupt legitimate operations, and sometimes disable operating systems and other important software operations."
+    ],
+    "related":["dlp","mail-security"],
+    "reference":"https://en.wikipedia.org/wiki/Antivirus_software#Identification_methods"
+}

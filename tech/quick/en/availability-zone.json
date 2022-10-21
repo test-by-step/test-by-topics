@@ -1,0 +1,12 @@
+{
+    "title":"Availability Zones",
+    "description":"Availability zones is a segmentation technique used primarily with cloud services in order to separate data and resouces physically within geographic regions and data centers.",
+    "key-ideas":[
+        "Physically separate and isolated blocks in data centers.",
+        "Improves fault tolerance, and thereby availability.",
+        "Associated with cloud service providers.",
+        "Different from Regions: regions are geographically distributed, availability zones are within the same region/data center."
+    ],
+    "related":["csp","segmentation"],
+    "reference":""
+}

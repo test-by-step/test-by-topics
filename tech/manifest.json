@@ -21,6 +21,26 @@
         "span-port":"Switch Port Analyzer (SPAN) Port",
         "port-mirroring":"Port Mirroring",
         "vpc":"Virtual Private Cloud",
-        "network-tap":"Network"
+        "network-tap":"Network Tap",
+        "sensors":"Sensors",
+        "siem":"Security Information and Event Management (SIEM)",
+        "fim":"File Integrity Monitoring (FIM)",
+        "snmp-traps":"SNMP Traps",
+        "netflow":"Netflow",
+        "dlp":"Data Loss Prevention",
+        "antivirus":"Antivirus",
+        "segmentation":"Segmentation",
+        "microsegmentation":"Microsegmentation",
+        "lan":"Local Area Network (LAN)",
+        "vlan":"Virtual Local Area Network (VLAN)",
+        "jumpbox":"Jump Box",
+        "screened-subnet":"Screened Subnet",
+        "data-zones":"Data Zones",
+        "staging-environment":"Staging Environment",
+        "availability-zone":"Availability Zones",
+        "acl":"Access Control List (ACL)",
+        "nacl":"Network Access Control List (NAC List)",
+        "security-groups":"Security Groups",
+        "regions":"Regions"
     }
 }

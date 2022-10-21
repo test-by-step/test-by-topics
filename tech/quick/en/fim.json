@@ -1,0 +1,11 @@
+{
+    "title":"File Integrity Monitoring (FIM)",
+    "description":"File integrity monitoring (FIM), sometimes referred to as file integrity management, is a security process that monitors and analyzes the integrity of critical assets, including file systems, directories, databases, network devices, the operating system (OS), OS components and software applications for signs of tampering or corruption, which may be an indication of a cyberattack.",
+    "key-ideas":[
+        "Triggers events or alerts when files are changed.",
+        "Often used to protect operating system or boot assets, which, if changed, may indicate a compromise.",
+        "Uses hashing to generate a hash of file contents which is recorded as a baseline and compared upon subsequent scans."
+    ],
+    "related":["hash"],
+    "reference":"https://www.crowdstrike.com/cybersecurity-101/file-integrity-monitoring/"
+}

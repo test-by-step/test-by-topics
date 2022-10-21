@@ -1,0 +1,14 @@
+{
+    "title":"Microsegmentation",
+    "description":"Micro-segmentation is a network security technique that enables security architects to logically divide the data center into distinct security segments down to the individual workload level, and then define security controls and deliver services for each unique segment.",
+    "key-ideas":[
+        "Network, devices, and applications are divided into the smallest possible chunks to isolate workloads or business functions.",
+        "Often associated with VPCs and virtual networks / SDNs which can efficiently overlay smaller, interconnected segments without the need to reconfigure harware.",
+        "Enforced by either network segmentation through ACLs, VLANs, and subnets; or by software agents on endpoints.",
+        "Formed around workloads, which are all the resources and processes required for an application to perform its task.",
+        "Based on least-privilege and zero trust, such that only traffic which has been explictly permitted to pass through is permitted to access the workload/application/resources in the segment.",
+        "Using SDN and SOAR, microsegments can be efficiently isolated in the event that an intrusion is detected, in order to contain the compromise."
+    ],
+    "related":["sdn","segmentation","soar"],
+    "reference":"https://www.vmware.com/topics/glossary/content/micro-segmentation.html"
+}

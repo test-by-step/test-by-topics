@@ -1,0 +1,10 @@
+{
+    "title":"Sensors",
+    "description":"Network sensors observe network traffic for indicators of compromise or activity that violates defined policy.",
+    "key-ideas":[
+        "Sensors monitor network traffic for policy breaking activity.",
+        "Sensors are likely to refer to the mechanisms for detecting policy breaking activity rather than the system suites."
+    ],
+    "related":["siem","fim","snmp","netflow","dlp","antivirus"],
+    "reference":""
+}

@@ -1,0 +1,12 @@
+{
+    "title":"Simple Network Management Protocol (SNMP) Traps",
+    "description":"SNMP traps enable an agent to notify the management station of significant events by way of an unsolicited SNMP message.",
+    "key-ideas":[
+        "SNMP message that alerts network managers to internal events observed by the agent (network device).",
+        "Trap messages are distinguished as being asynchronous/unsolicited; instead of the management station intiating respones, the network device (agent) alerts the manager as soon as the event occurs.",
+        "Traps can be either generic, defined in the RFC, or Enterprise Specific, created by the vendor or manufacturer for other custom events.",
+        "Managers require a Management Information Database (MIB) with corresponding Object IDs (OIDs) in order to understand enterprise specific traps."
+    ],
+    "related":["snmp"],
+    "reference":"https://en.wikipedia.org/wiki/Simple_Network_Management_Protocol"
+}

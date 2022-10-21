@@ -1,0 +1,14 @@
+{
+    "title":"Regions",
+    "description":"Regions are geographically distributed areas in cloud computing that provide broad physical segmentation of cloud resources. Regions generally represent the physical location of a cloud service providers data center.",
+    "key-ideas":[
+        "Regions are they physical locations in which data and services are located.",
+        "Selecting regions closer to clients improves performance and responsiveness by co-locating services and clients.",
+        "Increase availability by spreading services over greater geographic area; if one geographic region experiences an outage, another can be provisioned or positioned as a warm site.",
+        "Aid in disaster recovery.",
+        "Use to comply with regulations, laws (GDPR, e.g.), and industry standars when physical location restritions are mandated.",
+        "Regions represent physical locations of cloud computing resources; availability zones are internal physically isolated blocks within regions / data centers."
+    ],
+    "related":["availability-zones","csp"],
+    "reference":""
+}

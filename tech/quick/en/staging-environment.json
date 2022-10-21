@@ -1,0 +1,13 @@
+{
+    "title":"Staging Environment",
+    "description":"A stage, staging or pre-production environment is an environment for testing that exactly resembles a production environment. It seeks to mirror an actual production environment as closely as possible and may connect to other production services and data, such as databases.",
+    "key-ideas":[
+        "Resembles live environments as closely as possible.",
+        "Used to verify acceptability into the live environment and performance testing, verifying that application changes or additions will not cause application breaking behavior or security flaws.",
+        "Not used for unit test of internal functions.",
+        "Staging environments are placed after testing environments and before production.",
+        "Closely related to SDLC (primarily software)."
+    ],
+    "related":["sdlc-software","sdlc-system"],
+    "reference":"https://en.wikipedia.org/wiki/Deployment_environment"
+}

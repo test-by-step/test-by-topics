@@ -1,6 +1,6 @@
 # Intrusion Prevention Systems
 
-Intrusion prevention systems actively monitor networks or systems for intrusion or malicious behavior then logs, notifies, and/or reports activity AND *can intervene* to interrupt or disrupt an active intrusion or attack.
+Intrusion prevention systems actively monitor networks or systems for intrusion or malicious behavior then logs, notifies, and/or reports activity AND **can intervene** to interrupt or disrupt an active intrusion or attack.
 
 IPS solutions can do everything that an IDS can do, with the addition of actively interact and mitigate an intrusion in real time.
 

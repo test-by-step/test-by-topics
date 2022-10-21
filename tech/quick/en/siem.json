@@ -1,0 +1,13 @@
+{
+    "title":"Security Information and Event Management (SIEM)",
+    "description":"At the most basic level, all SIEM solutions perform some level of data aggregation, consolidation and sorting functions in order to identify threats and adhere to data compliance requirements.",
+    "key-ideas":[
+        "Aggregates logs, event data, and metrics into a centralized location and generates alerts by analyzing and correlating the data.",
+        "The biggest SIEM distinguishing feature is CORRELATION of events.",
+        "Provides a centralized dashboard for viewing logs, metrics, alerts, and other correlating data making it very useful for Security Operation Centers (SOCs).",
+        "Security alerts, event correlation, log management, UEBA, forensics.",
+        "May watch for insider threats, injection attacks, DoS, data loss, and indicators of compromise."
+    ],
+    "related":["soc","ioc"],
+    "reference":"https://www.ibm.com/topics/siem"
+}
