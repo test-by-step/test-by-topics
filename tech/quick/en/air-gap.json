@@ -1,0 +1,13 @@
+{
+    "title":"Air Gap",
+    "description":"An air gap, air wall, air gapping or disconnected network is a network security measure employed on one or more computers to ensure that a secure computer network is physically isolated from unsecured networks, such as the public Internet or an unsecured local area network.",
+    "key-ideas":[
+        "No physical connection (wired or wireless) connects the air-gapped network to any other device or network.",
+        "Considered the strongest possible network security measure, as it is impossible for a disconnected external network or Internet to access the network.",
+        "Air gap is only achieved by physically disconnecting a network - logical restrictions are not air gapped.",
+        "TEMPEST shielding or Farraday cages may be required to prevent wireless signals from coming in or out of a secure air gapped environment.",
+        "Does not protect against insider threats; physical security is required."
+    ],
+    "related":["physical-security"],
+    "reference":"https://en.wikipedia.org/wiki/Air_gap_(networking)"
+}

@@ -1,0 +1,20 @@
+{
+    "title":"Cloud",
+    "description":"Cloud computing is the on-demand availability of computer system resources, especially data storage (cloud storage) and computing power, without direct active management by the user.",
+    "key-ideas":[
+        "Takes advantage of economies of scale.",
+        "Provides highly scalable, highly available, highly reliable, lower-cost computational and networking resources.",
+        "Cloud services are provided by Cloud Service Providers (CSPs)",
+        "The client is always responsible for the handling, processing, and release of data (not the physical storage). That responsibilty cannot be delegated.",
+        "Public clouds are commecially available services provided by cloud service providers that can be purchased.",
+        "Private clouds are self-hosted/on-premesis cloud service hosted, maintained, and managed entirely by the organization that uses them.",
+        "Hybrid clouds are a combination of public and private cloud resources being utilized by an organization.",
+        "Virtual Private Clouds are public cloud offerings that allow organizations to purchase private virtual networks hosted by the CSP.",
+        "Software-as-a-service is a cloud service that sells or offers a fully functional, typically web based application to an end user or for organizational use. It is created, hosted, and maintained entirely by the cloud.",
+        "Platform-as-a-service is typically used for development teams; the CSP provides a fully functional development environment including operating systems, build tools, and all the back-end hardware and the client is responsible for application development and data processing.",
+        "Infrastructure-as-a-service is a cloud service that provisions a set amount of physical resources such as CPU, RAM, network bandwidth, and data storage capacity and the client is responsible for installing operating systems, softwares, tools, and handling data and applications.",
+        "Function-as-a-service allows the client to create a custom function or task that the CSP will run on demand (via manual intiation, schedule, or asynchronously) and only charges for the processing power used at each run."
+    ],
+    "related":["csp","vpc","iaas","paas","saas","faas"],
+    "reference":"https://en.wikipedia.org/wiki/Cloud_computing"
+}

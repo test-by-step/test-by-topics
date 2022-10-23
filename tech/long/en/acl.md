@@ -6,7 +6,7 @@ Access Control Lists are a sequential set of rules that define whether an action
 
 Each rule is checked in sequential order until a condition defined in the rule matches a feature of the action or traffic. Once a match is made, the action specified by the rule is followed, and processing of the list ends.
 
-ACLs can apply to filesystems and files, objects specified in databases or active directory, or to network traffic.
+ACLs can apply to filesystems and files, objects specified in databases or active directory, network traffic, ethernet traffic, or any other object-subject or source-destinatino relationship.
 
 Network Access Control Lists (NACL) filter network traffic based off of packet features such as source and destination addresses, ports, and protocols.Network Access Control lists (NAC Lists) filter network traffic. Each network packet's source and destination IP address, source and destination port number, and transportation layer protocol is compared against conditions defined in each rule. If any of the packet's features match the rule in the list, the traffic can be permitted (routed to its next interface), or denied (dropped).
 

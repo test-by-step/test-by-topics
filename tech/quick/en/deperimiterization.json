@@ -1,0 +1,13 @@
+{
+    "title":"Deperimiterization",
+    "description":"",
+    "key-ideas":[
+        "All connections back into the network need to be strongly authenticated.",
+        "All connections should use secure protocols.",
+        "All connections should use strong or sufficient encryption.",
+        "Data-level authentication should be used, meaning that once the connection is established, it is not implicitly granted access to all resources, but that each action and request has to be explicitly verified and permitted.",
+        "Consider a Zero Trust architecture for deperimiterization, assuming all connections are inherently a threat."
+    ],
+    "related":["zero-trust"],
+    "reference":"https://en.wikipedia.org/wiki/De-perimeterisation"
+}

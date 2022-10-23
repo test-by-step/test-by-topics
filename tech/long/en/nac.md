@@ -4,11 +4,11 @@ Network Access Control is most often related to end-user device (or IoT device) 
 
 Network Access Control will require devices to meet certain criteria to be permitted network access such as: verified approved group policies, no unauthorized softwares, virus free, and/or fully patched and updated.
 
-NAC can also help with inventory management.
+NAC enforces enpdoint security. NAC allows centralized policy management and enforcement on all endpoints.
+
+NAC may also help with inventory management.
 
 NAC may also be useful in incidence response in blocking misbehaving or compromised devices during an incident, and in correlation and investigation during forensics.
-
-NAC allows centralized policy management, enforcing policies on all endpoints.
 
 NAC can either reject a connection for non-compliant devices, quarantine the devices by restricting access to some services or isolating it in a separate VLAN, or put the device into a guest network/VLAN with limited permissions and access.
 

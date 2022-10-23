@@ -41,6 +41,12 @@
         "acl":"Access Control List (ACL)",
         "nacl":"Network Access Control List (NAC List)",
         "security-groups":"Security Groups",
-        "regions":"Regions"
+        "regions":"Regions",
+        "p2p":"Peer-to-Peer",
+        "air-gap":"Air Gap",
+        "cloud":"Cloud",
+        "deperimiterization":"Deperimiterization",
+        "remote-work":"Remote Work",
+        "zero-trust":"Zero Trust Model"
     }
 }

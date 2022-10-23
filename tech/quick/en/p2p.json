@@ -1,0 +1,17 @@
+{
+    "title":"Peer-to-Peer",
+    "description":"Peer-to-peer (P2P) computing or networking is a distributed application architecture that partitions tasks or workloads between peers. Peers are equally privileged, equipotent participants in the network.",
+    "key-ideas":[
+        "Clients are connected directly to each other, without a centralized server.",
+        "Application processing and file hosting occurs on the client devices, without a centralized server.",
+        "Each node in the network is equally privileged.",
+        "P2P operates at the application layer as a virtual network overlay; using TCP/IP and other Internet protocols to communicate but connecting themseelves via Layer 7 (Application).",
+        "Unstructured P2P networks allow for easy joining and leaving of the network (high churn), but resource queries ahve to be flooded to the entire network.",
+        "Structured P2P networks use Distributed Hash Tables to efficiently look up resources, but joining and leaving the topology is more difficult as synchronization to the topology and DHT is required.",
+        "Early versions of SMB are susceptible to the EternalBlue attack; SMBv3 is the most current and secure version.",
+        "Relay nodes in the P2P network can be used to get arround NATs that would typically prevent clients from being directly routable from the Internet.",
+        "Examples: BitTorrent, Skype, SMB, Bitcoin"
+    ],
+    "related":[""],
+    "reference":"https://en.wikipedia.org/wiki/Peer-to-peer"
+}

@@ -1,0 +1,12 @@
+{
+    "title":"Zero Trust Model",
+    "description":"Instead of assuming everything behind the corporate firewall is safe, the Zero Trust model assumes breach and verifies each request as though it originates from an open network. Regardless of where the request originates or what resource it accesses.",
+    "key-ideas":[
+        "All resources are inaccessbile by default.",
+        "Assumed break; all connections and entities are thoroughly segmented.",
+        "Each request/action must be explicitly verified and permitted",
+        "All requests are strongly authenticated before being allowed to proceed, even those connections originating from inside the organization firewall/perimiter."
+    ],
+    "related":["deperimiterization","mfa"],
+    "reference":"https://www.microsoft.com/en-us/security/business/zero-trust"
+}
