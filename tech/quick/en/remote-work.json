@@ -1,0 +1,17 @@
+{
+    "title":"Remote Work",
+    "description":"Remote work is employees or offices performing their business functions from a geographcally dispersed or remote location, physically outside of the primary network infrastructure of the organization.",
+    "key-ideas":[
+        "A consideration for deperimiterization.",
+        "Remote working connections should always be strongly authenticated.",
+        "Remote connections should be strongly or sufficiently encrypted.",
+        "NAC and MDM can be used to enforce security policy on remote endpoints.",
+        "Consider a Zero Trust Model for remote work.",
+        "VPNs can be used to secure authenticated users, devices, and offices with strong and verified security polcies access to the organizations intranet.",
+        "SaaS business products such as Office365, Microsoft Teams, Slack, etc. can be used as a collaborative tool accessible from a web browser; the web browser and the SaaS provider handle the security of the connection/session.",
+        "VDI can be used to provide a virtual desktop session from the cloud accessible from a web browser. The desktop session is logically inside of the organizational network, subject to all the internal security policies and mitigations.",
+        "VDI can disable copy-and-paste to help with DLP."
+    ],
+    "related":["deperimiterization","vdi","vpn","mdm","nac"],
+    "reference":""
+}

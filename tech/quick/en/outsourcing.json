@@ -1,0 +1,12 @@
+{
+    "title":"Outsourcing and Contracting",
+    "description":"Many organizations do not perform all business and necessary operations functions internally, but must contract out services to keep the operation running that may require some access to networks and services that would otherwise be internally available only to the main organization.",
+    "key-ideas":[
+        "Outsourced entities and contractors that require even limited access to the organization network are a security liability.",
+        "Outsourced/contracted connections should be treated with zero-trust policy, given zero permissions by default, and only granted access explicitly based on need.",
+        "If two organizations require connecting business networks to perform their function, and Interconnection Security Agreement (ISA) should be in place to define responsibilities between the two parties.",
+        "Contracted entities must be strictly scrutinized for repuration and likelihood of persistance; a company that goes out of business will leave contracted operations unmaintained."
+    ],
+    "related":[""],
+    "reference":""
+}

@@ -1,0 +1,14 @@
+{
+    "title":"Mobile Device Management (MDM)",
+    "description":"MDM is typically a deployment of a combination of on-device applications and configurations, corporate policies and certificates, and backend infrastructure, for the purpose of simplifying and enhancing the IT management of end user devices.",
+    "key-ideas":[
+        "An application that runs on mobile devices that sets and enforces security policies defined by the organization.",
+        "MDM can install applications, set user/device settings, configure certifications and VPNs, enforce encryptions, enable remote wipe, and force other device and system configurations as specified by organization policy.",
+        "MDM enables security and scalability for large organizations with many mobile devices.",
+        "Policy configurations and updates can be downloaded over the air, without direct IT intervention and/or after initial configuration.",
+        "Can be used to track devices through location services/GPS and to report activity logs and device ownership.",
+        "Can enable remote wipe of device if it is lost or stolen."
+    ],
+    "related":["mobile"],
+    "reference":"https://en.wikipedia.org/wiki/Mobile_device_management"
+}

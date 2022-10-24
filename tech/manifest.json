@@ -47,6 +47,10 @@
         "cloud":"Cloud",
         "deperimiterization":"Deperimiterization",
         "remote-work":"Remote Work",
-        "zero-trust":"Zero Trust Model"
+        "zero-trust":"Zero Trust Model",
+        "mdm":"Mobile Device Management (MDM)",
+        "mobile":"Mobile",
+        "outsourcing":"Outsourcing and Contracting",
+        "wireless":"Wireless Networks"
     }
 }

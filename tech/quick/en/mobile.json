@@ -1,0 +1,24 @@
+{
+    "title":"Mobile",
+    "description":"Mobile devices are any device that is designed to be moved to and used in a remote location or away from a statick, controlled location, such as in the cases of: during field work, while traveling, remote work/work from home, or for business communications such as company enabled smartphones.",
+    "key-ideas":[
+        "Mobile is a concern for deperimiterization in organizations.",
+        "Mobile devices are a concern for remote business connections back to the intranet, but also for malicious use of unauthorized mobile devices on-premesis.",
+        "BYOD (Bring your own device) is a mobile deployment method in which a user uses their own personal mobile device for business functions.",
+        "BYOD is the least secure, but cheapest option for an organization.",
+        "COBO (Company Owned Business Only) is a mobile deployment method in which the business purchaes, configures, and supplies the mobile device which is only authorized for business use, and may be configured to allow only business functions.",
+        "COBO is the most expensive, but most secure mobile deployment option.",
+        "COPE (Company Owned Personally Enabled) is a mobile deployment method in which the device is purchased and configured by they company, but the user is allowed to install and use some personal services on the device.",
+        "COPE is still expensive for the company and is less secure than COBO, but more secure than BYOD or CYOD.",
+        "CYOD (Choose Your Own Device) is a mobile deployment option in which a user is able to choose which personally enabled device they purchase (usually subsidized) from a pre-approved list of devices that will be allowed for business functions. The device is still personally managed and enabled, but the hardware and operating system is considered sufficiently secure.",
+        "CYOD is more secure than BYOD but less secure than COPE and COBO, and is less expensive than COPE/COBO but may be more expensive than BYOD.",
+        "Managed Mobile Services (MMS) allows a vendor or third-party to automatically configure devices for the organization on first boot, automatically donloading security policies and setting up MDM before allowing set up to continue.",
+        "Mobile Device Management (MDM) is a software application on mobile devices that automatically maintains, updates, and enforces security and device policies on the mobile device based on organizational policy. MDM strictly enforces policy on endpoints.",
+        "Compartmentalization is the logical segmentation of mobile device operations that separates business and personal applications and data, securing and encrypting them separately and preventing cross communication between the two compartments.",
+        "Encryption is critical to mobile devices; most devices offer full drive encryption of some sort.",
+        "Mobile devices can and should be configured for remote wipe so that data can be completely erased by a remote signal if the device is lost or stolen.",
+        "Geofencing restricts device actions, or explicitly permits actions, when the device is located in certain geographic locations; geofencing requires location services enabeld."
+    ],
+    "related":["mdm","byod","cobo","cope","cyod","mms","compartmentalization","encryption","geofencing"],
+    "reference":""
+}

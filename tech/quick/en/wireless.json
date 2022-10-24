@@ -1,0 +1,26 @@
+{
+    "title":"Wireless Networks",
+    "description":"A wireless network is a computer network that uses wireless data connections between network nodes. Wireless networking is a method by which homes, telecommunications networks and business installations avoid the costly process of introducing cables into a building, or as a connection between various equipment locations.",
+    "key-ideas":[
+        "Wireless networks are networks which communicate using radio frequencies to pass network traffic.",
+        "Wireless site surveys are often conducted in order to establish the optimal placement of wireless transceivers such as Wi-Fi access points, to maximize the signal coverage for the smallest amount of hardware and resources.",
+        "Wireless surveys can also look for rogue access points and evil twins.",
+        "WPA3 is the most recent and secure Wi-Fi security protocol",
+        "Wired Equivalent Privacy is an early Wi-Fi security implementation that used the RC4 cipher; WEP is insecure because the initialization vector isn't large enough to guarantee a unique key for every transmission.",
+        "Wi-Fi Protected Access (WPA) is a set of Wi-Fi security implementations that aim to improve on WEP.",
+        "WPA1 used Temporal Key Integrity Protocl (TKIP) which is susceptible to packet spoofing and injection.",
+        "WPA2 and WPA3 use AES with counter mode cipher block chaining, which is more secure.",
+        "WPA3 enables perfect forward secrecy.",
+        "WPA3 enables Simultaneous Authentication of Equals (SAE) which authenticates the access point and the user to each other, rather than a 1-way authentication using a password (pre-shared key, PSK).",
+        "WPA-PSK uses a pre-shared key, or password, to derive the network transmision keys.",
+        "WPA-Enterprise uses 802.1x, RADIUS, TACACS, etc. to authenticate connections using the Extensible Authentication Protocol (EAP).",
+        "Evil Twins are malicous access points that pretend to be legitimate or authorized access points by emulating the organizations BSSID, but can steal data and reroute connections if they convince the device to connect to them rather than a legitimate node.",
+        "Physical sites should seek to prevent wireless signals from propogating outside of their campus; shielding on external walls or efficient site surveys can assist in this.",
+        "Internet of Things (IoT) devices are often connected via wireless networks such as Wi-Fi, Z-Wave, and Zigbee.",
+        "IoT devices are typically black-boxes managed and updated by the vendor, making them difficult to properly secure in an organizational network.",
+        "Wireless Sensor Networks use low-power, low-frequency radio signals create a mesh network.",
+        "Wireless Sensor Networks use low cost, high-efficiency devices that do not have sophisticated hardware, and may not have hardware for encryption."
+    ],
+    "related":["wifi","802dot11","802dot1x","eap","wep","wpa"],
+    "reference":""
+}
