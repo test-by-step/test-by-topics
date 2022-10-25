@@ -1,0 +1,20 @@
+{
+    "title":"Mergers and Acquisitions",
+    "description":"Mergers and Acquisitions between two organizations involve the joining of both organizations networks, infrastructure, assets, and information systems. This process is exceptionally risk prone and requires a rigorous process of due dilligence and care to protect both information systems and networks as they are combined.",
+    "key-ideas":[
+        "Proper configuration and security must be verified before merging networks and systems.",
+        "Before mergers conduct: Risk Assessments, Legal Review, Review DRP, BCP, IRP, and other important technical business texts.",
+        "Review assets and inventory.",
+        "Review Physical Security.",
+        "Recommended: conduct penetration test.",
+        "Recommended: conduct compromise assessment.",
+        "Due Dilligence is a rigorous, legally-binding review process conducted by acquiring organizations prior to acquisition and network merger.",
+        "Due Dilligence is concerned with well defined, specific functions, processes, regulations and policies. It has well defined expectations.",
+        "Due Dilligence is most often referenced as a rigorous review conducted by an organization seeking to verify the systems of another organization before acquiring it.",
+        "Due care is a broad, non-legally binding expection of proper configuration, operation, and security of the organizations systems throughout its lifetime and during mergers, transitions, and acquisitions.",
+        "Due care is not associated with specific functions, but is loosely defined as the actions and policies a reasonable person would be expected to perform to maintain the IT systems and sub-systems.",
+        "All organizations are expected to execute due care, but the term is most associated in context with organizations being acquired."
+    ],
+    "related":[""],
+    "reference":""
+}

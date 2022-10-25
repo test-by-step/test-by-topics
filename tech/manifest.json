@@ -51,6 +51,11 @@
         "mdm":"Mobile Device Management (MDM)",
         "mobile":"Mobile",
         "outsourcing":"Outsourcing and Contracting",
-        "wireless":"Wireless Networks"
+        "wireless":"Wireless Networks",
+        "peering":"Peering",
+        "cloud-premises":"Cloud to on-premises",
+        "data-sensitivity-levels":"Data sensitivity levels",
+        "mergers":"Mergers and Acquisitions",
+        "cross-domain":"Cross Domain Connections"
     }
 }

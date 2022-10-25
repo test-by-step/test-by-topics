@@ -1,0 +1,13 @@
+{
+    "title":"Data Sensitivity Levels",
+    "description":"Data Sensitivity is the classification of data based on its level of sensitivity and the impact should that data be lost or released without authorization, and the application of governance controls to that data.",
+    "key-ideas":[
+        "Data can and should be classified according to business rules and in accordance with law and regulation.",
+        "Different sensitivity levels an have different controls applied to them, with increasing protections for higher sensitivity.",
+        "Sensivity levels have varying degrees of sensitivity: Low, Moderate, High; or, Public, Internal, Confidential, Private; or, Unclassified, Classified, Secret, Top Secret.",
+        "Automations can be applied to properly tagged data to help in governing data.",
+        "Data in sensitivity levels must be secured and processed in accordance with the business rules according to its classification."
+    ],
+    "related":[""],
+    "reference":""
+}

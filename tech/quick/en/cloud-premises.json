@@ -1,0 +1,17 @@
+{
+    "title":"Cloud to on-premises",
+    "description":"Hybrid cloud systems with business functions and services occuring on premises and in cloud hosted environments must be properly and securely configured.",
+    "key-ideas":[
+        "Cloud and on-premises system must have a means to mutually authenticate and authorize users for the organizations services.",
+        "Federated Identities is the most common means of authenticating and authorizing actions.",
+        "SAML is the most common mechanism for securely exchanging information for authentication and authorization of federated users.",
+        "If a SAML token is compromised, a malicious user can execute actions as if they were the user the SAML token belonged to.",
+        "If the SAML token-signing key is compromised, an attacker can execute any arbitrary action for any user.",
+        "User accounts and administrative accounts should be isolated.",
+        "User accounts never get administrative privileges.",
+        "Administrator accounts are separate accounts with least-privilege, granted access only to the minimum number of services needed to accomplish its function.",
+        "On-premises administrator accounts do not get administrator access to the cloud services; separate cloud administrator accounts are used to manage cloud services."
+    ],
+    "related":[""],
+    "reference":"https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/protect-m365-from-on-premises-attacks"
+}

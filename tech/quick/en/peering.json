@@ -1,0 +1,12 @@
+{
+    "title":"Peering",
+    "description":"Peering is a voluntary interconnection of administratively separate Internet networks for the purpose of exchanging traffic between the down-stream users of each network.",
+    "key-ideas":[
+        "Data and traffic is exchanged on an equal basis, with neither network more priveleged than the other.",
+        "Neither network administrator pays the other for the service; the connection is voluntary and mutual.",
+        "Each retain their own customers.",
+        "Peering is most often associated with a physical connection, likely between routers exchanging routing informatin through Border Gate Protocol (BGP)."
+    ],
+    "related":[""],
+    "reference":"https://en.wikipedia.org/wiki/Peering"
+}
