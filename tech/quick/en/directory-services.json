@@ -1,0 +1,15 @@
+{
+    "title":"Directory Services",
+    "description":"A Directory Service is a shared information infrastructure for locating, managing, administering and organizing everyday items and network resources, which can include volumes, folders, files, printers, users, groups, devices, telephone numbers and other objects.",
+    "key-ideas":[
+        "Directory Services are databases which are used to store, describe, and manage information on network resources and entities such as users, computers, printers, network volumes, groups.",
+        "The X.500 specification is the most common format for access directory services.",
+        "LDAP, based on the X.500 specification, is the most often used protocol to access directory services information over TCP/IP.",
+        "LDAP operates on port 389 for unencrypted connections.",
+        "LDAPS (TLS encrypted LDAP connections) operate on port 636.",
+        "Directory Services is often used in conjunction with identity and access management (IAM), identity federation, single sign-on, and device and account management.",
+        "Common Directory Service entries are: user accounts, groups, computers, printers, network volumes."
+    ],
+    "related":["iam","sso","ldap"],
+    "reference":"https://en.wikipedia.org/wiki/Directory_service"
+}

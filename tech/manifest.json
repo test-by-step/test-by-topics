@@ -56,6 +56,10 @@
         "cloud-premises":"Cloud to on-premises",
         "data-sensitivity-levels":"Data sensitivity levels",
         "mergers":"Mergers and Acquisitions",
-        "cross-domain":"Cross Domain Connections"
+        "cross-domain":"Cross Domain Connections",
+        "federation":"Identity Federation",
+        "directory-services":"Directory Services",
+        "sdn":"Software Defined Networking (SDN) / Open SDN",
+        "hybrid-sdn":"Hybrid SDN"
     }
 }

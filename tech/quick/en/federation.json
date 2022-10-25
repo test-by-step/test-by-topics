@@ -1,0 +1,14 @@
+{
+    "title":"Identity Federation",
+    "description":"A federated identity in information technology is the means of linking a person's electronic identity and attributes, stored across multiple distinct identity management systems.",
+    "key-ideas":[
+      "Identity Federation, or Federation, allows for the sharing of authentication information between multiple domains, systems, applications, and/or environments",
+      "Identity Federation is often closely associated with Single Sign On (SSO).",
+      "When two systems are federated, they agree to accept authenticating information, typically in the form of authentication tokens, from one or more federated systems' respective domains.",
+      "Authenticated identity does not guarantee access to a service, only verifies authenticity; a service provider must still verify permissions or authorizations to access a service.",
+      "Tokens are a structured and digitally signed object which attests the to identity and authenticity of the token holder.",
+      "When using tokens, a trusted federated domain can sign the token using its private token signing key, which any system that has agreed to trust the federated domain can easily verify using the federated domain's public key."  
+    ],
+    "related":["sso"],
+    "reference":"https://en.wikipedia.org/wiki/Federated_identity"
+}

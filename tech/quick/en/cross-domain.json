@@ -1,0 +1,12 @@
+{
+    "title":"Cross Domain Solutions / Cross Domain Connections",
+    "description":"A cross-domain solution (CDS) is an integrated information assurance system composed of specialized software, and sometimes hardware, that provides a controlled interface to manually or automatically enable and/or restrict the access or transfer of information between two or more security domains based on a predetermined security policy.",
+    "key-ideas":[
+        "Cross domain solutions offer a limited connection between security domains with strict rules on what data is allowed to leave or enter.",
+        "Security domains are logically isolated networks and systems that share a classification level (Unclassified, Secret, Top Secret, e.g.).",
+        "A key element of cross domain solutions is a security appliance that is positioned at the junction of the two domains which enforces security policies.",
+        "The interface at the domain juncture, then, must evaluate all incoming data from outside the domain to detirmine if it is acceptable to enter the network, as well as evaluate all outgoing data from inside the domain to evaluate if it is allowed to leave."
+    ],
+    "related":[""],
+    "reference":"https://en.wikipedia.org/wiki/Cross-domain_solution"
+}
