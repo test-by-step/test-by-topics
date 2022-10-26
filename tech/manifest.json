@@ -60,6 +60,10 @@
         "federation":"Identity Federation",
         "directory-services":"Directory Services",
         "sdn":"Software Defined Networking (SDN) / Open SDN",
-        "hybrid-sdn":"Hybrid SDN"
+        "hybrid-sdn":"Hybrid SDN",
+        "sdn-overlay":"SDN Overlay",
+        "scalability":"Scalability",
+        "vertical-scalability":"Vertical Scalability",
+        "horizontal-scalability":"Horizontal Scalability"
     }
 }

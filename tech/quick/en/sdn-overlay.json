@@ -1,0 +1,11 @@
+{
+    "title":"SDN Overlay",
+    "description":"The SDN Overlay is the abstract, self-contained and self-governing arrangement of logical paths that is created by software in Software Defined Networking, and then translated onto the existing network hardware.",
+    "key-ideas":[
+        "The software defined network datapaths are said to be 'overlayed' onto the pre-existing infrastructure hardware.",
+        "An Overlay is any purpose built, logically defined, self-contained traffic routing and governing protocol or system that is built on top of a pre-existing general-purpose infrastructure or protocol.",
+        "In SDN a logically defined datapath is constructed that is self-contained and is overlayed onto the underlying hardware."
+    ],
+    "related":["sdn"],
+    "reference":""
+}

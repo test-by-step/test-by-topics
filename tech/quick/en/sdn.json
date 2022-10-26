@@ -3,6 +3,7 @@
     "description":"Software-defined networking (SDN) technology is an approach to network management that enables dynamic, programmatically efficient network configuration in order to improve network performance and monitoring, making it more like cloud computing than traditional network management.",
     "key-ideas":[
         "Software Defined Networking decouples the network control logic from the physical hardware that performs the function, such as routers and switches.",
+        "SDN creates an abstract logical network that self organizes its routing and traffic rules on top of and agnostic to the underlying hardware; this is referred to as an overlay.",
         "The network hardware configuration and infrastructure is largely static, remaining unchanged; instead a software controller logically configures the network behavior and translates the requirements to the appropriate actions for servicing by the underlying hardware.",
         "Network control is centralized.",
         "The SDN controller can view and control all traffic on the network.",
@@ -13,6 +14,6 @@
         "The Control Layer communicates with the Infrastructure using the South-bound Interface.",
         "The Infrastructure Layer is the underlying hardware responsible for forwarding the data packets."
     ],
-    "related":["vm"],
+    "related":["vm","sdn-overlay"],
     "reference":"https://en.wikipedia.org/wiki/Software-defined_networking"
 }

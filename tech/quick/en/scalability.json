@@ -1,0 +1,16 @@
+{
+    "title":"Scalability",
+    "description":"Scalability is the property of a system to handle a growing amount of work by adding resources to the system.",
+    "key-ideas":[
+        "Scalability provides Availability.",
+        "IT scalability may account for: CPU, network, memory, buffer, data storage, and database transaction capacities.",
+        "Efficiency of algorithms is increasingly important as systems scale; e.g. latency of time required to process big data as data grows.",
+        "Difficulty of Manageability of systems (in human cost and complexity) increases with scale.",
+        "Scalability can account for increase in demand, adding resources to the system to accommodate; and decreases, releasing resources as demand ebbs.",
+        "Automation is often used to dynamically provision and de-provision resources on-demand.",
+        "Scalability is a key benefit of cloud computing.",
+        "On-demand scalability allows cloud customers to automatically add and remove resources, only paying for what they use."
+    ],
+    "related":["vertical-scalability","horizontal-scalability"],
+    "reference":"https://en.wikipedia.org/wiki/Scalability"
+}
