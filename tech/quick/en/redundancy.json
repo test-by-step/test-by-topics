@@ -1,0 +1,18 @@
+{
+    "title":"Redundancy",
+    "description":"Redundancy is the intentional duplication of critical components or functions of a system with the goal of increasing reliability of the system, usually in the form of a backup or fail-safe, or to improve actual system performance.",
+    "key-ideas":[
+        "Redundancy improves reliability by providing failover or back up for systems and components.",
+        "Redundancy can improve performance by providing additional network paths or parallel processing power.",
+        "Generally, redundancy provides resiliency, fault-tolerance, and availability.",
+        "Failover occurs when a primary system fails and a backup or redundant system takes over as the primary servicer.",
+        "Redundancy is strongly related to fault-tolerant systems as well as high availability systems.",
+        "Redundancy can also be used for error detection.",
+        "Redundancy focuses on reliability.",
+        "Replication focuses on consistency.",
+        "For replication, the state of the system must be synchronized between nodes (such as database back ups).",
+        "Replicated systems are very often also redundant systems."
+    ],
+    "related":["fault-tolerant","clustering"],
+    "reference":"https://en.wikipedia.org/wiki/Redundancy_(engineering)"
+}

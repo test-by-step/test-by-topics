@@ -1,0 +1,12 @@
+{
+    "title":"Replication",
+    "description":"Replication in computing involves sharing information so as to ensure consistency between redundant resources, such as software or hardware components, to improve reliability, fault-tolerance, or accessibility.",
+    "key-ideas":[
+        "The goal of replication is consistency across the system or application.",
+        "Replication can be active, in which data and requests are duplicated and processed by all nodes at the time of the request.",
+        "Replication can be passive, in which data and requests are processed by a single node and then copied and transfered to other nodes.",
+        "Replicated systems are usually redundant systems."
+    ],
+    "related":["redundancy"],
+    "reference":"https://en.wikipedia.org/wiki/Replication_(computing)"
+}

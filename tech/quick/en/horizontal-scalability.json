@@ -2,6 +2,7 @@
     "title":"Horizontal Scalability",
     "description":"Scaling horizontally (out/in) means adding more nodes to (or removing nodes from) a system, such as adding a new computer to a distributed software application.",
     "key-ideas":[
+        "Scale by adding more servicing nodes (e.g. servers, routers, hard drives).",
         "Horizontal Scalability improves availability and also provides redundancy.",
         "An example is adding additional identical servers to serve a high traffic web site.",
         "Horizontal scalability is important when system work loads exceed the capacity of even immensely powerful computers.",

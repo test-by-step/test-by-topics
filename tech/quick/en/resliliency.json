@@ -1,0 +1,12 @@
+{
+    "title":"Resiliency",
+    "description":"The ability to anticipate, withstand, recover from, and adapt to adverse conditions, stresses, attacks, or compromises on systems that use or are enabled by cyber resources.",
+    "key-ideas":[
+        "Ensuring an application continues to function appropriately, as intended even when disruptive conditions threaten some aspect of the application.",
+        "Eliminate single points of failure.",
+        "Aim to mitigate the effects of: component failures, drastic changes in service requests or network traffic, natural disasters, hacking attempts, DoS attacks.",
+        "May be related to business continuity planning; highly related to high availability and redundancy."
+    ],
+    "related":["bcp","ha","scalability"],
+    "reference":"https://csrc.nist.gov/glossary/term/cyber_resiliency"
+}

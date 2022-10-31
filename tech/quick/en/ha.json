@@ -1,0 +1,15 @@
+{
+    "title":"High Availability",
+    "description":"High availability (HA) is a characteristic of a system which aims to ensure an agreed level of operational performance, usually uptime, for a higher than normal period.",
+    "key-ideas":[
+        "A highly available resource is almost always operational and accessible to clients.",
+        "High Availability is distinct from fault tolerance; fault tolerant systems are 100% available, 0 downtime systems; HA systems seek to approach 100% uptime, but some downtime is expected.",
+        "When a system claims to have high availability, it is typically guaranteeing that the amount of downtime it experiences in a year will be kept under a tight threshold.",
+        "Five-nines availability means 99.999% availability (or just 5 minutes and 15 seconds for an entire year).",
+        "Associated technologies and techniques: clustering, RAID, redundancy, failover, back ups.",
+        "Associated availability terms: Mean Time To Recover, Recovery Time Objective, Business Continuity Planning, and Disaster Recovery.",
+        "A failover occurs when a backup components takes over for a failed primary component."
+    ],
+    "related":["availability","raid","clustering","mttr","rto"],
+    "reference":"https://en.wikipedia.org/wiki/High_availability"
+}

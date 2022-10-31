@@ -1,0 +1,16 @@
+{
+    "title":"Clustering",
+    "description":"A computer cluster is a set of computers that work together so that they can be viewed as a single system.",
+    "key-ideas":[
+        "Clustering is the grouping of systems that work together as a single entity to perform a service.",
+        "Improves reliability, availability, scalability.",
+        "Can provide failover for clusters using redundant systems.",
+        "Performance: cluster additional computational resources to perform advanced and complicated computational tasks.",
+        "Load-balancing: distribute service requests among identical back end servers.",
+        "Availability: HA clusters provide multiple failover protections through redundant or replicated systems.",
+        "Open clusters have each node individually addressed and are individually accessible.",
+        "Closed clusters are accessed through a gateway that distributes requests to the clustered nodes."
+    ],
+    "related":["redundancy","resiliency"],
+    "reference":"https://en.wikipedia.org/wiki/Computer_cluster"
+}

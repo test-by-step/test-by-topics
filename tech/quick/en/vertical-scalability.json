@@ -1,0 +1,12 @@
+{
+    "title":"Vertical Scalability",
+    "description":"Scaling vertically (up/down) means adding resources to (or removing resources from) a single node, typically involving the addition of CPUs, memory or storage to a single computer.",
+    "key-ideas":[
+        "Scale by improving existing nodes (add more RAM, add a more powerful CPU, e.g.).",
+        "Improves resiliency and availability but does NOT improve redundancy.",
+        "Vertical scaling can be preferred when the cost of adding new nodes is too high.",
+        "Vertical scaling may be physical (more RAM on a blade server) or virtualized (more RAM assigned to a VM by a hypervisor)."
+    ],
+    "related":["scalability"],
+    "reference":"https://en.wikipedia.org/wiki/Scalability#Horizontal_(scale_out)_and_vertical_scaling_(scale_up)"
+}

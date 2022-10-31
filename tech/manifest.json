@@ -64,6 +64,14 @@
         "sdn-overlay":"SDN Overlay",
         "scalability":"Scalability",
         "vertical-scalability":"Vertical Scalability",
-        "horizontal-scalability":"Horizontal Scalability"
+        "horizontal-scalability":"Horizontal Scalability",
+        "resiliency":"Resiliency",
+        "ha":"High availability",
+        "diversity-heterogeneity":"Diversity vs. heterogeneity",
+        "coa-orchestration":"Course of Action Orchestration",
+        "distributed-allocation":"Distributed Allocation",
+        "redundancy":"Redundancy",
+        "replication":"Replication",
+        "clustering":"Clustering"
     }
 }

@@ -1,0 +1,18 @@
+{
+    "title":"Diversity vs. Heterogeneity",
+    "description":"Diversity is the deployment and use of products from different vendors that perform the same a similar function across the network. Heterogeneity is the deployment and use of products from the same vendors that perform the same function across the network.",
+    "key-ideas":[
+        "Diversity avoids vendor lock in.",
+        "Diversity mitigates a vendor-specific vulnerability affecting the entire network.",
+        "Diversity is more complex to manage.",
+        "Products from different vendors may not work well or at all togehter.",
+        "Heterogeneity is simpler to implement.",
+        "Heterogeneity may be cheaper to scale.",
+        "Heterogeneity may cause vendor lock in.",
+        "Vendor specific vulnerabilities will affect the entire network.",
+        "Vendor lock in occurs when an over reliance and/or prohibitive cost of change causes an organization to be stuck dependent on a single vendor for providing critical cyber functions.",
+        "When stuck in a Vendor lock in situation, a sudden change in vendor prices or the vendor going out of business can be exceptionally costly for the organization."
+    ],
+    "related":[""],
+    "reference":""
+}

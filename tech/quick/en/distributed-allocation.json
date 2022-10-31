@@ -1,0 +1,11 @@
+{
+    "title":"Distributed Allocation",
+    "description":"Distributed allocation spreads systems and applications over multiple equipment pools or data centers in order to improve resiliency.",
+    "key-ideas":[
+        "Resources and equipment concentrated in an isolated geograhpic area or single data center is susceptible to total service disruption.",
+        "Resources can be distributed by the creation of multiple data centers, spreading applications across multiple servers, or by provisioning resources in multiple cloud regions.",
+        "Distributed allocation may also be used on a local scale by spreading critical applications and services over multiple devices or systems."
+    ],
+    "related":["resiliency","clustering","cloud"],
+    "reference":""
+}
