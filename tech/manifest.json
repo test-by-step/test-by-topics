@@ -72,6 +72,9 @@
         "distributed-allocation":"Distributed Allocation",
         "redundancy":"Redundancy",
         "replication":"Replication",
-        "clustering":"Clustering"
+        "clustering":"Clustering",
+        "autoscaling":"Autoscaling",
+        "soar":"Security Orchestration, Automation, and Response (SOAR)",
+        "bootstrapping":"Bootstrapping"
     }
 }

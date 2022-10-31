@@ -1,0 +1,15 @@
+{
+    "title":"Security Orchestration, Automation, and Response (SOAR)",
+    "description":"Security Orchestration, Automation, and Response (SOAR) is a process and/or appliance that automates response to network security events by triaging incidents, threats, and alerts in the network and automatically initiating remedial actions in pre-defined playbooks.",
+    "key-ideas":[
+        "Playbooks are sets of automated remedial actions, defined by the network administrators, that security appliances execute when triggered by the COA/SOAR rules.",
+        "SOAR is an autoamted or automations process.",
+        "SOAR is often referenced as part of incidence response or incident management.",
+        "SOAR products consume network alerts and triggers, typically from a SIEM application, and begin automatic remedial actions on a network-wide scope.",
+        "SOAR reduces the Mean time to respond to security incidents by reducing the Mean Time to Respond to the event by not requiring manual human interaction to intervene.",
+        "SOAR prioritizes and triages events.",
+        "SOAR synchronizes and consumes the outputs and actions of multiple tools and technologies to perform well informed, **orchestrated** actions."
+    ],
+    "related":["coa-orchestration"],
+    "reference":"https://www.crowdstrike.com/cybersecurity-101/security-orchestration-automation-and-response-soar/"
+}

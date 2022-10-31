@@ -1,0 +1,12 @@
+{
+    "title":"Bootstrapping",
+    "description":"Bootstrapping is the use of automated processes to create, provision, and configure new instances of appliances or applications.",
+    "key-ideas":[
+        "Bootstrapping is used to automate the process of creating new application or appliance instances.",
+        "Bootstrapping is used in automations.",
+        "Bootstrapping ensures consistency of configuration, and therefor behavior of new nodes.",
+        "Bootstrapping enables secure provisioning of new instances by automating the processes of node creation."
+    ],
+    "related":[""],
+    "reference":""
+}

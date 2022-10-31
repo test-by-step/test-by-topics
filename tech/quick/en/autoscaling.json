@@ -1,0 +1,15 @@
+{
+    "title":"Autoscaling",
+    "description":" Autoscalingis a method used in cloud computing that dynamically adjusts the amount of computational resources in a system or application automatically based on the load demanded of the system or application.",
+    "key-ideas":[
+        "Autoscaling is an automated or automations process.",
+        "Autoscaling is closely associated with cloud services.",
+        "Autoscaling can scale vertically or horizontally.",
+        "Autoscaling for cloud services is often related to on-demand or pay-as-you-go services in which the client organization only pays for the resources they use.",
+        "The minimum size is the minimum amount of resources that will ever be provisioned for the system. Autoscaling will not reduce resources below this point.",
+        "The maximum size is the most amount of resources ever to be provisioned for the system. Autoscaling will not add resources above this point.",
+        "Autoscaling can also involve **scheduled scaling** in which scaling happens on a pre-defined schedule, in order to anticipate changes in network traffic based on historical data."
+    ],
+    "related":["clustering","vertical-scaling","horizontal-scaling",""],
+    "reference":"https://en.wikipedia.org/wiki/Autoscaling"
+}
