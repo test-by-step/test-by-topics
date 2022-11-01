@@ -1,0 +1,21 @@
+{
+    "title":"Performance",
+    "description":"Performance of a system measures the amount of useful work it can do at any time, or over a measurable period.",
+    "key-ideas":[
+        "A factor, device, or application that is limiting system performance is called a bottleneck.",
+        "Network performance is measured in bandwidth.",
+        "Use routers, VLANs, and subnets to break up broadcast domains.",
+        "Use switches to break up collision domains.",
+        "Fix damaged physical connections.",
+        "Spanning Tree Protocol to fix layer 2 loops.",
+        "Quality of Service (QoS) to prioritize traffic.",
+        "Choose wireless channels that don't interfere.",
+        "Use site survey to choose optimal AP placement.",
+        "Content Delivery Networks load static content from a geographically close location.",
+        "Increase cache size for frequently accessed requests.",
+        "Increase buffer size for servers with many connections.",
+        "Reduce the number of inline devices."
+    ],
+    "related":[""],
+    "reference":"https://en.wikipedia.org/wiki/Computer_performance"
+}

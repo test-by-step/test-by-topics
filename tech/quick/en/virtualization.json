@@ -1,0 +1,18 @@
+{
+    "title":"Virtualization",
+    "description":"In computing, virtualization is the act of creating a virtual (rather than actual) version of something at the same abstraction level, including virtual computer hardware platforms, storage devices, and computer network resources.",
+    "key-ideas":[
+        "Virtualized instances are separated from the underlying hardware.",
+        "Hardware resource access is managed and scheduled by a hypervisor.",
+        "Type 1 Hypervisors, or bare metal hypervisors, run directly on top of the hardware without a primary host operating system.",
+        "Type 2 Hypervisors run as applications within a primary operating system, with virtual machines being invoked by the system or user.",
+        "Type 1 is lighter and may be more efficient as it doesn't need to share scheduling with a host OS.",
+        "Virtualization can virtualize: operating systems, appliances (firewalls, IDs, etc.), network devices (routers, switches, etc.), servers, destops, etc.",
+        "Full virtualization virtualizes hardware components or aspects as well, such as unique instruction sets on different CPUs.",
+        "Virtualization creates an instance of an entire operating system and kernel.",
+        "VMs have more overhead than containers.",
+        "VMs are more versatile than containers as they are not dependent on the host kernel."
+    ],
+    "related":["containerization"],
+    "reference":"https://en.wikipedia.org/wiki/Virtualization"
+}

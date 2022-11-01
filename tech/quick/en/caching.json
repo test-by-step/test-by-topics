@@ -1,0 +1,14 @@
+{
+    "title":"Caching",
+    "description":"In computing, a cache is a hardware or software component that stores data so that future requests for that data can be served faster; the data stored in a cache might be the result of an earlier computation or a copy of data stored elsewhere.",
+    "key-ideas":[
+        "Caching primarily improves performance.",
+        "Caching can help improve reliability, availability.",
+        "In networks, caching will typically involve distributed systems and/or proxies.",
+        "Reduce latency in delivering content.",
+        "Reduce computational load on back end.",
+        "Used in databases, CPUs, web applications/sites, web browsers."
+    ],
+    "related":["cdn","proxy"],
+    "reference":"https://en.wikipedia.org/wiki/Cache_(computing)"
+}

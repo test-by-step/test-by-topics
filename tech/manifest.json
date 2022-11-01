@@ -75,6 +75,11 @@
         "clustering":"Clustering",
         "autoscaling":"Autoscaling",
         "soar":"Security Orchestration, Automation, and Response (SOAR)",
-        "bootstrapping":"Bootstrapping"
+        "bootstrapping":"Bootstrapping",
+        "performance":"Performance",
+        "containerization":"Containerization",
+        "virtualization":"Virtualization",
+        "cdn":"Content Delivery Network (CDN)",
+        "caching":"Caching"
     }
 }

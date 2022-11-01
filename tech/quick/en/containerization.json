@@ -1,0 +1,18 @@
+{
+    "title":"Containerization",
+    "description":"Containerization is the packaging of software code with just the operating system (OS) libraries and dependencies required to run the code to create a single lightweight executable—called a container—that runs consistently on any infrastructure.",
+    "key-ideas":[
+        "More portable and efficient than VMs.",
+        "Containerization may be referred to as OS-level virtualization.",
+        "Containers create isolated user-space instances for each application container.",
+        "Containers can be used to run multiple applications that would otherwise have dependency conflicts on a single system.",
+        "Containers enable scalability.",
+        "With containers, application faults are isolated to the container run time and are less likely to cause a system crash that affects other applications.",
+        "Containers are isolated and improve security by preventing a security flaw in one application being used to transition to other applications.",
+        "Containers make use of the host kernel.",
+        "Containers use less overhead than VMs.",
+        "virtualization creates an instance of an entire system or operating system with its own kernel that runs on top of and/or is managed by a hypervisor."
+    ],
+    "related":[""],
+    "reference":"https://www.ibm.com/cloud/learn/containerization"
+}
