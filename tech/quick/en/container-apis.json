@@ -1,0 +1,14 @@
+{
+    "title":"Container APIs",
+    "description":"Container APIs allow for the efficient and centralized management and orchestration of large-scale container deployments through the use of configuration templates and controller applications.",
+    "key-ideas":[
+        "Container APIs allow for the efficient orchestration of containers.",
+        "Container APIs provide an access, reporting, and management interface to access, assess and configure containers in bulk.",
+        "High density container deployments can be accessed and monitored through APIs which report on the activity, behavior, load, and health of the container.",
+        "Container APIs also allow container deployments to be easily configured in a text configuration file, ensuring consistent deployment and easy configuration and re-deployment.",
+        "Kubernetes is a popular example of a Container management and orchestration software.",
+        "Container APIs must be secured against unauthorized access."
+    ],
+    "related":["containerization"],
+    "reference":""
+}

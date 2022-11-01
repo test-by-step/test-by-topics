@@ -1,0 +1,30 @@
+{
+    "title":"Secure Coding",
+    "description":"Secure Coding Standards are guidelines and expectations that help to ensure that the application under devlopment is protected against common or severe flaws that expose the application to attack.",
+    "key-ideas":[
+        "Secure Coding Standards are related to the principle of Secure By Design.",
+        "Secure Coding Standards cannot protect an application that has a flaw in its design.",
+        "Secure Coding Standards are closely related to the Software Development Lifecycle.",
+        "Routines should fail securely",
+        "ritical and sensitive functions should be handled server side",
+        "Use standard routines and libraries where possible",
+        "Deny by default wherever possible",
+        "OWASP Guildelines:",
+        "Input Validation",
+        "Output Encoding",
+        "Authentication and Password Management",
+        "Session Management",
+        "Access Control",
+        "Cryptographic Practices",
+        "Error Handling and Logging",
+        "Data Protection",
+        "Communication Security",
+        "System Configuration",
+        "Database Security",
+        "File Management",
+        "Memory Management",
+        "General Coding Practices"
+    ],
+    "related":["sdlc-software"],
+    "reference":"https://owasp.org/www-pdf-archive/OWASP_SCP_Quick_Reference_Guide_v2.pdf"
+}

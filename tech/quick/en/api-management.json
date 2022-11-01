@@ -1,0 +1,18 @@
+{
+    "title":"",
+    "description":"API management is the process of creating and publishing web application programming interfaces (APIs), enforcing their usage policies, controlling access, nurturing the subscriber community, collecting and analyzing usage statistics, and reporting on performance. API Management components provide mechanisms and tools to support developer and subscriber communities.",
+    "key-ideas":[
+        "API Management is closely associated with API Gateways and microservices.",
+        "API Management allows for centralization of the management and monitoring functions of APIs and endpoints.",
+        "Helps ensure availability of APIs.",
+        "Helps ensure security of APIs",
+        "Helps to monitor APIs in a central location.",
+        "API Application Keys authorize access for individual applications.",
+        "Tokens may be used to authorize users or logged in systems.",
+        "The API gateway handles incoming requests to API endpoints and routes them to the appropriate service or function.",
+        "A Portal provides an interface for administrators to interact with the APIs and endpoints, configure, manage, and view alerts.",
+        "API Management includes reports and analytics used to observe the health of the APIs and generate alerts."
+    ],
+    "related":[""],
+    "reference":"https://en.wikipedia.org/wiki/API_management"
+}

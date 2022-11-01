@@ -83,6 +83,10 @@
         "caching":"Caching",
         "baseline":"Baseline",
         "secure-design-patterns":"Secure Design Patterns",
-        "storage-design-patterns":"storage-design-patterns"
+        "storage-design-patterns":"storage-design-patterns",
+        "container-apis":"Container APIs",
+        "secure-coding":"Secure Coding Standards",
+        "application-vetting":"Application Vetting Process",
+        "api-management":"API Management"
     }
 }

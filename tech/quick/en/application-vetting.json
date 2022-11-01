@@ -1,0 +1,18 @@
+{
+    "title":"Application Vetting Process",
+    "description":"The process of verifying that an app meets an organization's security requirements. An app vetting process comprises app testing and app approval/rejection activities.",
+    "key-ideas":[
+        "In order for an application to be vetted, the organization must first identify the application security requirements.",
+        "Whitelisting is the most secure organizational application policy.",
+        "Correctness testing verifies the application produces proper outputs given set inputs and detects errors.",
+        "Source and binary testing analyzes the source code and binary instructions for non-compliant patterns or security flaws.",
+        "Static tests observe components of the application without running the application.",
+        "Dynamic tests are conducted when the application is running.",
+        "Intake: Possible applications are submitted or considered for use",
+        "Testing: Applications are tested against the security standards",
+        "Approval/Rejection: The application is accepted or rejected based on its test results",
+        "Results: Approval or rejection is documented "
+    ],
+    "related":[""],
+    "reference":"https://csrc.nist.gov/glossary/term/App_Vetting_Process"
+}
