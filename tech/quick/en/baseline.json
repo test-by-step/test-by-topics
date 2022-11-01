@@ -1,0 +1,16 @@
+{
+    "title":"Baseline",
+    "description":"A specification or product that has been formally reviewed and agreed to by responsible management, that thereafter serves as the basis for further development, and can be changed only through formal change control procedures.",
+    "key-ideas":[
+        "Baselines are formally approved configurations.",
+        "Baselines require formal change control procedures to alter.",
+        "Baselines are closely associated with configuration management.",
+        "May be a secure snapshot of a system or software at a point in time.",
+        "Baselines can be applied to system configurations such as with computers and servers.",
+        "Baselines can be applied to software development.",
+        "Individual system deviations from an expected baseline, however, must to be approved, documented, and registered.",
+        "Network Vulnerability scanners, Network Access Control scanners, and NAC agents may check network devices against the baseline configurations."
+    ],
+    "related":["nac","sdlc"],
+    "reference":"https://csrc.nist.gov/glossary/term/baseline"
+}

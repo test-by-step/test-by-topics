@@ -1,0 +1,10 @@
+{
+    "title":"Secure Design Patterns",
+    "description":"Secure design patterns incorporate software and system security into the development process from the beginning of the development lifecycle through a rigorous planning process and the implementation of best practices and procedures.",
+    "key-ideas":[
+        "Secure Design Patterns is closely associated with Secure by Design principles.",
+        "Secure Design Patterns is closely associated with the Software Development Lifecycle (SDLC)."
+    ],
+    "related":[""],
+    "reference":"https://owasp.org/www-pdf-archive/Secure_Application_Development.pdf"
+}

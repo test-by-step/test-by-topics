@@ -1,0 +1,13 @@
+{
+    "title":"Storage Design Patterns",
+    "description":"Storage design patterns incorporate efficient data storage and data security into application design from the beginning of the development lifecycle through rigorous planning and the implementation of best practices and procedures at every stage of development.",
+    "key-ideas":[
+        "Classify and compartmentalize data.",
+        "Data of different classifications should not intermix.",
+        "Identify and encrypt sensitive data.",
+        "Comply with national and international law.",
+        "Plan for data sovereignity."
+    ],
+    "related":[""],
+    "reference":""
+}

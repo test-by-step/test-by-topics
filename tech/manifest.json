@@ -80,6 +80,9 @@
         "containerization":"Containerization",
         "virtualization":"Virtualization",
         "cdn":"Content Delivery Network (CDN)",
-        "caching":"Caching"
+        "caching":"Caching",
+        "baseline":"Baseline",
+        "secure-design-patterns":"Secure Design Patterns",
+        "storage-design-patterns":"storage-design-patterns"
     }
 }
