@@ -87,6 +87,10 @@
         "container-apis":"Container APIs",
         "secure-coding":"Secure Coding Standards",
         "application-vetting":"Application Vetting Process",
-        "api-management":"API Management"
+        "api-management":"API Management",
+        "middleware":"Middleware",
+        "software-assurance":"Software Assurance",
+        "sandbox":"Sandbox",
+        "third-party-libraries":"Third Party Libraries"
     }
 }

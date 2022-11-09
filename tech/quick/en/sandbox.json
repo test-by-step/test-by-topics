@@ -1,0 +1,15 @@
+{
+    "title":"Sandbox",
+    "description":"A sandbox is a security mechanism for separating running programs, usually in an effort to mitigate system failures and/or software vulnerabilities from spreading.",
+    "key-ideas":[
+        "Used to execute untested or untrusted code or applications from untrusted third parties.",
+        "Used in virus research in order to execute and study viruses without exposing real systems to them.",
+        "Used to create secure development environments where software errors do not propogate, and malicous code or dependencies cannot be injected into the development process.",
+        "Virtual Machines can act as logically sandboxes, but must be properly configured as hypervisors typically contain features that allow bi-directional communications.",
+        "Operating Systems typically have mechanisms to sandbox applications, only providing access to restricted memory, storage space, system resources.",
+        "Mobile Operating systems typically implement full application isolation on every application.",
+        "Browsers must isolate individual tabs, windows, and pages (including embedded iframes) to prevent malicous pages from accessing another page."
+    ],
+    "related":[""],
+    "reference":"https://en.wikipedia.org/wiki/Sandbox_(computer_security)"
+}

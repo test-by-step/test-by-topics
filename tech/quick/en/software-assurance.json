@@ -1,0 +1,15 @@
+{
+    "title":"Software Assurance",
+    "description":"Software Assurance is the level of confidence that software is free from vulnerabilities, either intentionally designed into the software or accidentally inserted at any time during its lifecycle, and that the software functions in the intended manner.",
+    "key-ideas":[
+        "Goal is to provide guarantees that adhere to a pre-agreed standard according to contract, industry standard, or regulation.",
+        "Rigorous testing.",
+        "Rigorous documentation.",
+        "Assurances before, during, and after development.",
+        "Before: Security implemented by design.",
+        "During: documentation, dependency validation.",
+        "After: testing, review, signing"
+    ],
+    "related":["secure-by-design"],
+    "reference":"https://en.wikipedia.org/wiki/Software_assurance"
+}

@@ -1,0 +1,15 @@
+{
+    "title":"Middleware",
+    "description":"Middleware is a software application that acts as a connector and translator between distributed network/system applications and appliances.",
+    "key-ideas":[
+        "Middleware can help to connect appliances that may otherwise not communicate directly.",
+        "Middleware operates transparently.",
+        "Middleware is typically considered below the Application Layer (Layer 7) but above the Transport Layer (Layer 4).",
+        "Middleware is important to software development and SDLC; it can provide inter-application communications without the need of the developers to support an extended suite of communication protocols and formats.",
+        "Message Brokers are a type of Middleware.",
+        "Enterprise Service Buses are a type of Middleware.",
+        "Middleware is common for web applications, providing the connection between the browser/user-data and the back end."
+    ],
+    "related":["esb"],
+    "reference":"https://en.wikipedia.org/wiki/Middleware"
+}
