@@ -1,0 +1,20 @@
+{
+    "title":"Third Party Libraries",
+    "description":"A third-party software component is a reusable software component developed to be either freely distributed or sold by an entity other than the original vendor of the development platform.",
+    "key-ideas":[
+        "Third party libraries are standardized or pre-built dependencies for software applications which improve the speed and effiency of software development.",
+        "Third Party Libraries are often referred to as dependencies.",
+        "Open source libraries have their source code available for review, download, and often modification.",
+        "Closed source libraries do not have their source code available for review.",
+        "Proprietary libraries mean that the vendor retains all rights and licenses to the library, of which a license to use the library must usually be purchased from the vendor.",
+        "Vendor reliability, trustworthiness, and quality should be vetted.",
+        "Where available, source code should be inspected, analzyed, and vetted.",
+        "Libraries should be tested with manual procedures like code review, and automated processes such as automatic code scanners and fuzzing.",
+        "Proper error handling should be vetted for the library.",
+        "Performance of the library should be validated.",
+        "Signatures of official packages and releases should be validated.",
+        "Libraries with complete documentation are generally preferable."
+    ],
+    "related":[""],
+    "reference":"https://en.wikipedia.org/wiki/Third-party_software_component"
+}

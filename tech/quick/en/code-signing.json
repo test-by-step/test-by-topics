@@ -1,0 +1,17 @@
+{
+    "title":"Code Signing",
+    "description":"Code signing is the process of digitally signing executables and scripts to confirm the software author and guarantee that the code has not been altered or corrupted since it was signed.",
+    "key-ideas":[
+        "Code signing provides Integrity verification for software packages.",
+        "Code signing is highly related to digital signatures.",
+        "Code signing uses a cryptographic hash of the software bundle.",
+        "Security of code signing relies on the security of the signing keys.",
+        "Public keys have to be verified as trusted for the code signature to be trusted.",
+        "X.509 Certificates can be used to distribute trusted keys.",
+        "Keys can be signed by a trusted other party (such as with PGP or GPG).",
+        "Trust on first use can be employed to save the public key fingerprint on first use and only use that key for subsequent releases.",
+        "Extended Validation (EV) code signing imparts stricter requirements on the security of the signing key."
+    ],
+    "related":[""],
+    "reference":"https://en.wikipedia.org/wiki/Code_signing"
+}

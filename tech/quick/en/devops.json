@@ -1,0 +1,20 @@
+{
+    "title":"DevOps",
+    "description":"DevOps is a set of practices that combines software development (Dev) and IT operations (Ops). It aims to shorten the systems development life cycle and provide continuous delivery with high software quality.",
+    "key-ideas":[
+        "DevOps is a key aspect of Software Development and extremely closely related to the Software Development Lifecycle (SDLC)",
+        "Highly associated with Agile Development Practices",
+        "Highly associated with Continuous Integration / Continuous Delivery (CI/CD)",
+        "Key to DevOps is the marrying of the software developers with business operations.",
+        "The DevOps pipeline is not static but may be changed and adapted to meet team/business needs.",
+        "Automation is a key requirement of effective DevOps.",
+        "Automated review and build processes reduce complexity and improve the speed and efficiency.",
+        "Automation is criticial to CI/CD.",
+        "DevSecOps adds security integration and considerations into the devlopment and operations teams.",
+        "DevOps pipeline involves all of the tools, processes, and automations required to build, test, and publish software.",
+        "A good DevOps pipeline is: repeatable, continuous, always on.",
+        "DevOps pipeline stages: Plan, Code, Build, Test, Release, Deploy, Operate, Monitor."
+    ],
+    "related":["cicd","automation","devsecops","agile"],
+    "reference":"https://en.wikipedia.org/wiki/DevOps#DevOps_automation"
+}

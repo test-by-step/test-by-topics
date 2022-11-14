@@ -91,6 +91,8 @@
         "middleware":"Middleware",
         "software-assurance":"Software Assurance",
         "sandbox":"Sandbox",
-        "third-party-libraries":"Third Party Libraries"
+        "third-party-libraries":"Third Party Libraries",
+        "devops":"DevOps",
+        "code-signing":"Code Signing"
     }
 }
