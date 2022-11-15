@@ -1,0 +1,13 @@
+{
+    "title":"Enterprise Resource Planning (ERP)",
+    "description":"Enterprise resource planning (ERP) is the integrated management of main business processes, often in real time and mediated by software and technology.",
+    "key-ideas":[
+        "ERP provides a continuous, often real-time view of business processes",
+        "Track: cash / money, raw materials, production capacity, orders, payroll",
+        "ERP facilitates data flow between departments and disparate applications.",
+        "ERP provides a single, integrated system and common databses for storing and viewing department and application data and status.",
+        "Combine data from various departments through modules; modules share a common view or format regardless of data origin."
+    ],
+    "related":[""],
+    "reference":"https://en.wikipedia.org/wiki/Enterprise_resource_planning"
+}

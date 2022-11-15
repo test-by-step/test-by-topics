@@ -93,6 +93,11 @@
         "sandbox":"Sandbox",
         "third-party-libraries":"Third Party Libraries",
         "devops":"DevOps",
-        "code-signing":"Code Signing"
+        "code-signing":"Code Signing",
+        "ast":"Application Security Testing",
+        "crm":"Customer Relationship Management (CRM)",
+        "erp":"Enterprise Resource Planning (ERP)",
+        "cmdb":"Configuration Management Database (CMDB)",
+        "cms":"Content Management System (CMS)"
     }
 }

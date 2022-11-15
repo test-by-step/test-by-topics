@@ -1,0 +1,17 @@
+{
+    "title":"Application Security Testing",
+    "description":"Application Security Testing is the rigorous security testing of an application integrated into the SDLC process and into the DevOps pipeline.",
+    "key-ideas":[
+        "Dynamic Application Security Testing tests the application while it is loaded by performing attacks against it.",
+        "DAST is considered black box testing.",
+        "DAST has a high accuracy, but poor coverage of the code base.",
+        "Static Application Security Testing tests the application source code, without it running, for insecure patterns.",
+        "SAST is considered white box testing",
+        "SAST has a low accuracy, but complete code coverage.",
+        "Interactive Application Security Testing tests the application by combining static and dynamic teseting tools.",
+        "IAST is considered gray box testing",
+        "IAST requires knowledge of the underlying source code and has the highest accuracy with broadest coverage and therefor accuracy of testing techniques."
+    ],
+    "related":[""],
+    "reference":"https://en.wikipedia.org/wiki/Static_application_security_testing"
+}

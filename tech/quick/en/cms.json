@@ -1,0 +1,12 @@
+{
+    "title":"Content Management System (CMS)",
+    "description":"A content management system (CMS) is computer software used to manage the creation and modification of digital content.",
+    "key-ideas":[
+        "The most common CMS platforms are web publishing platforms that provide a combined front and backend interface in order to generate and publish information.",
+        "CMS is most often related to information management such as store inventory, articles, documentation, posts, archives, reports, and other easily indexible data.",
+        "CMS is typically arranged into a heirarchical structure that is easily traversed and organized for viewing and parsing.",
+        "CMS is often used for: Online stores, Blogs, Web sites, News sites, Informational websites."
+    ],
+    "related":[""],
+    "reference":"https://en.wikipedia.org/wiki/Content_management_system"
+}

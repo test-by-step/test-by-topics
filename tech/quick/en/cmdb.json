@@ -1,0 +1,13 @@
+{
+    "title":"Content Management Database (CMDB)",
+    "description":"A configuration management database (CMDB) is an ITIL term for a database used by an organization to store information about hardware and software assets (commonly referred to as configuration items).",
+    "key-ideas":[
+        "CMDB is used to manage asset inventory (HW and SW) and the relationships between them.",
+        "CMDB can assist in identifying and managing critical assets within the organization.",
+        "CMDB can be used to identify baseline and expected system states and configurations within the organization.",
+        "CMDB can be used for change management.",
+        "Items in the CMDB are called Configuration Items (CI)."
+    ],
+    "related":[""],
+    "reference":"https://en.wikipedia.org/wiki/Configuration_management_database"
+}
