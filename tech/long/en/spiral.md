@@ -2,7 +2,7 @@
 
 The Spiral Model of software development combines aspects of the iterative approach favored by agile-based development methods and the sequential method of a waterfall approach.
 
-Spiral allows for rapid development and iterative release of new software versions.
+Spiral allows for rapid development and iterative release of new software versions, where each release has a clear set of objectives.
 
 The Spiral method is conceptually a series of cycles, each cycle corresponding to a software version or release, logically organized into four parts per cycle.
 
