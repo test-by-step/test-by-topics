@@ -1,0 +1,12 @@
+{
+    "title":"Insertions and Upgrades (SSDLC)",
+    "description":"Secure upgrades, insertions, and patching are required for maintaining application security and keeping software up to date.",
+    "key-ideas":[
+        "The security of the upgrades and patches must be similarly guaranteed for the application to maintain its security.",
+        "Changes must be thoroughly documented for each insertion, upgrade, or patch.",
+        "All insertions, patches, and upgrades must be properly signed by the developer/vendor.",
+        "Signature validation ensures package integrity; updates are not corrupted or modified and are from a trusted source."
+    ],
+    "related":[""],
+    "reference":""
+}

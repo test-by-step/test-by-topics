@@ -1,0 +1,15 @@
+{
+    "title":"Spiral",
+    "description":"Based on the unique risk patterns of a given project, the spiral model guides a team to adopt elements of one or more process models, such as incremental, waterfall, or evolutionary prototyping.",
+    "key-ideas":[
+        "Spiral allows for rapid development and iterative release of new software versions",
+        "Each release has a clear set of objectives to deliver.",
+        "Spiral is organized as a series of cycles, where each cycle is a release.",
+        "Each cycle has four phases: Objective Setting, Risk Assessment, Development, Planning.",
+        "The development phase incorporates many of the phases of the waterfall method: design, code, integrate, test, implement.",
+        "Objectives are clearly defined within each release cycle, which permits for a structured sequential approach to delivering on the cycles objectives.",
+        "Spiral models are risk driven, risk is assessed and addressed at each cycle."
+    ],
+    "related":[""],
+    "reference":"https://en.wikipedia.org/wiki/Spiral_model"
+}

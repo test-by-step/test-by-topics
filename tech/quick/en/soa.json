@@ -1,0 +1,17 @@
+{
+    "title":"Service Oriented Architecture (SOA)",
+    "description":"In software engineering, service-oriented architecture (SOA) is an architectural style that focuses on discrete services instead of a monolithic design.",
+    "key-ideas":[
+        "Service Oriented Architecture is an integrating feature, spanning multiple parts of an organization.",
+        "It allows the reuse of functionality of multiple applications that service multiple facets of an organization.",
+        "SOA connects multiple applications to reuse features; microservices by contrast typically provide granular access to an individual applications functions, rather than service reuse across applications.",
+        "An ESB can be used to provide an abstraction for SOA applications, rather than communicating directly between service interfaces.",
+        "SOA can break down application features and functions into multiple components which may be reused across multiple applications.",
+        "Single repeatable function.",
+        "Self contained.",
+        "Black box.",
+        "Typically stateless."
+    ],
+    "related":[""],
+    "reference":""
+}

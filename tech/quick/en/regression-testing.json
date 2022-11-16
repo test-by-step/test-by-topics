@@ -1,0 +1,11 @@
+{
+    "title":"Regression Testing",
+    "description":"Regression testing is re-running functional and non-functional tests to ensure that previously developed and tested software still performs as expected after a change.",
+    "key-ideas":[
+        "Regression testing is applied after changes to already approved software or components.",
+        "Verifies software continues to behave correctly, consistently, and that changes have not impacted other components.",
+        "Regression testing is frequently automated."
+    ],
+    "related":[""],
+    "reference":"https://en.wikipedia.org/wiki/Regression_testing"
+}

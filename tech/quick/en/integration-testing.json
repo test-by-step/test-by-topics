@@ -1,0 +1,15 @@
+{
+    "title":"Integration Testing",
+    "description":"Integration testing is the phase in software testing in which individual software modules are combined and tested as a group.",
+    "key-ideas":[
+        "Integration testing occurs after unit testing has verified components and functions behave properly, independently.",
+        "Integration testing verifies inputs, outputs, and proper error/exception handling of components as they collaborate.",
+        "Big Bang testing tests all components in one big test.",
+        "Incremental testing starts with at least two components and then adds additional components to testing as tests pass.",
+        "Top down tests top level modules first, then tests lower leve modules.",
+        "Bottom up tests lower level modules first, then tests higher level modules.",
+        "Sandwich testing tests the integration the target layer and the layer above, and the integration between the target layer and the layer below."
+    ],
+    "related":[""],
+    "reference":"https://en.wikipedia.org/wiki/Integration_testing"
+}

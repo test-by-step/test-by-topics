@@ -1,0 +1,22 @@
+{
+    "title":"Waterfall",
+    "description":"The waterfall model is a breakdown of project activities into linear sequential phases, meaning they are passed down onto each other, where each phase depends on the deliverables of the previous one and corresponds to a specialization of tasks.",
+    "key-ideas":[
+        "All requirements are identified up front.",
+        "Entire design is planned for in the beginning.",
+        "Less iterative and less flexible.",
+        "Better cost and time estimates.",
+        "Long standing method with demonstrated effect.",
+        "Projects take longer to deliver value.",
+        "Less client involvement in middle stages.",
+        "Requirements",
+        "Analysis",
+        "Design",
+        "Implementation (Coding)",
+        "Verification/Testing",
+        "Deployment",
+        "Maintenance"
+    ],
+    "related":[""],
+    "reference":"https://en.wikipedia.org/wiki/Waterfall_model"
+}

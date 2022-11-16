@@ -1,0 +1,13 @@
+{
+    "title":"Disposal and Reuse (SSDLC)",
+    "description":"When a secure software Secure software comes to end of life, or when a software is to be reused in other contexts, protected artifacts need to be sanitized and properly disposed of.",
+    "key-ideas":[
+        "Cryptographic keys must be securely destroyed.",
+        "Secret or protected data must be securely destroyed according to policy or regulation.",
+        "Some data must be retained and securely archived according to policy or regulation, and cannot be expunged.",
+        "Access keys and authentication/identity credentials must be sanitized.",
+        "When software is reused across trust domains or between distinct entities or departments, sanitization needs to occur."
+    ],
+    "related":[""],
+    "reference":"https://csrc.nist.gov/publications/detail/sp/800-218/final"
+}

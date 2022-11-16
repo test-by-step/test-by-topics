@@ -1,0 +1,21 @@
+{
+    "title":"Requirements (SSDLC)",
+    "description":"Ensure that security requirements for software development are known at all times so that they can be taken into account throughout the SDLC.",
+    "key-ideas":[
+        "Security Requirements must be planned for from the beginning, implementing security by design.",
+        "Requirements must be documented.",
+        "Requirements must be implemented continously and at every stage.",
+        "Requirements must be assessed, re-assessed at ever stage.",
+        "Requirements must be tested continously as part of CI/CD.",
+        "Requirements should be testable.",
+        "Requirements should be measurable.",
+        "Requirements should be complete (fully defined, and covering entire scope).",
+        "Requirements should be clear and unambiguous.",
+        "Requirements should be consistent.",
+        "Functional requirements mandate actions that the application must take to mitigate or enforce security controls.",
+        "Non-functional requirements are parameters that govern application outputs, behaviors, and formats that support auditing and transparency.",
+        "Derived or implied requirements are requirements that aren't specifically specified by other rquirements or standards or regulations but are implied or necessary to their secure implementation."
+    ],
+    "related":[""],
+    "reference":"https://csrc.nist.gov/publications/detail/sp/800-218/final"
+}

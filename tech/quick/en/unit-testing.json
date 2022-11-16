@@ -1,0 +1,12 @@
+{
+    "title":"Unit Testing",
+    "description":"Unit testing is a software testing method by which individual units of source code—sets of one or more computer program modules together with associated control data, usage procedures, and operating procedures—are tested to determine whether they are fit for use.",
+    "key-ideas":[
+        "Unit tests verify the correct operation of components or functions (units) within an application.",
+        "Unit tests verify proper input, output, and error or exception handling.",
+        "Unit tests are typically automated.",
+        "Does not catch integration errors or system errors."
+    ],
+    "related":[""],
+    "reference":"https://en.wikipedia.org/wiki/Unit_testing"
+}

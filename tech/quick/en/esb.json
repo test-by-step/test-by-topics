@@ -1,0 +1,17 @@
+{
+    "title":"Enterprise Service Bus (ESB)",
+    "description":"An enterprise service bus (ESB) implements a communication system between mutually interacting software applications in a service-oriented architecture (SOA).",
+    "key-ideas":[
+        "Platform-agnostic; integrate any service in any environment (ideally).",
+        "Provides an abstraction layer that receives and handles application messages without the need for individual applications to implement multiple protocols and interfaces.",
+        "The ESB is responsible for receiving, translating, and delivering messages from service to service.",
+        "Highly related to SOA, typically providing a common software interface in order to route messages between the SOA application services.",
+        "Route messages from service to service.",
+        "Monitor message exchange",
+        "Resolve contention between communicating services",
+        "Control deployment of services",
+        "Data transformation"
+    ],
+    "related":["soa"],
+    "reference":"https://en.wikipedia.org/wiki/Enterprise_service_bus"
+}

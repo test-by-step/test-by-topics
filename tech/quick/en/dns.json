@@ -1,0 +1,26 @@
+{
+    "title":"Domain Name System (DNS)",
+    "description":"The Domain Name System (DNS) is the hierarchical and distributed naming system used to identify computers reachable through the Internet or other Internet Protocol (IP) networks.",
+    "key-ideas":[
+        "Resolves a domain name or URL to an internet routable address (IP address).",
+        "Basic operation is over UDP port 53.",
+        "Basic operation is not encrypted nor authenticated or validated (no confidentiality or integrity).",
+        "Servers may support additional protocols such as TCP.",
+        "Servers may support encrypted connections over HTTPS or TLS.",
+        "DNSSEC can provide authenticated records (to prevent spoofing or poisoning) but do not encrypt the request or response.",
+        "Recursive requests are served by recursively making DNS requests to lower and lower level servers until an authoritative answer is returned.",
+        "Iterative requests are served by returning the best answer immediatelly available, or a reference to the next most authoritative server at a lower level.",
+        "Non-recursive requests are served by either directly returning an authoritative answer or a cached answer.",
+        "Resolvers are the first DNS server accessed by a requester, typically a recursive resolver, and typically on a wireless router, internet gateway, or ISP.",
+        "Recursive servers are responsible for making recursive requests, starting at a root domain server, and following DNS responses at every level until an authoritative answer is returned.",
+        "Authoritative servers are the servers where DNS records are officially stored and can return an authoritative answer, since they are the server ultimately responsible for that record.",
+        "A records return the IP address for a domain name.",
+        "AAAA records return the IPv6 address for a domain name.",
+        "CNAME records are aliases for the domain name/IP address requested, and direct to another record (often another A record) to detirmine the IP address.",
+        "PTR records are the reverse of A records, returning a domain name when an IP address is specified.",
+        "MX records specify the mail server for a domain name, usually looking and acting like a CNAME record, but logically identifying mail servers.",
+        "Wildcard records can group all subdomains of a specified domain into a single record."
+    ],
+    "related":["dnssec"],
+    "reference":"https://en.wikipedia.org/wiki/Domain_Name_System"
+}

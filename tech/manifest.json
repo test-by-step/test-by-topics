@@ -98,6 +98,21 @@
         "crm":"Customer Relationship Management (CRM)",
         "erp":"Enterprise Resource Planning (ERP)",
         "cmdb":"Configuration Management Database (CMDB)",
-        "cms":"Content Management System (CMS)"
+        "cms":"Content Management System (CMS)",
+        "dns":"Domain Name System (DNS)",
+        "soa":"Service Oriented Architecture (SOA)",
+        "esb":"Enterprise Service Bus",
+        "sdlc-formal-methods":"Formal Methods (SSDLC)",
+        "ssdlc-requirements":"Requirements (SSDLC)",
+        "ssdlc-fielding":"Fielding (SSDLC)",
+        "ssdlc-upgrades":"Insertions and Upgrades (SSDLC)",
+        "ssdlc-disposal":"Displosal and Reuse (SSDLC)",
+        "regression-testing":"Regression Testing",
+        "unit-testing":"Unit Testing",
+        "integration-testing":"Integration Testing",
+        "secdevops":"SecDevOps",
+        "agile":"Agile",
+        "waterfall":"Waterfall",
+        "spiral":"Spiral"
     }
 }

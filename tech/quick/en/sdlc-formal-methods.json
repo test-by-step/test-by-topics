@@ -1,0 +1,16 @@
+{
+    "title":"Formal Methods (SDLC)",
+    "description":"Formal Methods for implementing security in the software development pipeline includes fundamental, sound, and secure software development practices based on established secure software development practice documents from organizations such as NIST, BSA, OWASP, and SAFECode.",
+    "key-ideas":[
+        "Security should be included from the beginning of planning and integrated in every stage of development.",
+        "Software should be Secure By Design.",
+        "Use standard / well-vetted security frameworks.",
+        "Implement and adhere to a risk management framework.",
+        "Conduct frequent testing as part of CI/CD.",
+        "Use an external audit to review security.",
+        "OpenSAMM, or the Software Maturity Model, is an open framework from OWASP for implementing secure software development.",
+        "Secure Software Design Frameowkr, is a framework from NIST for secure software developpment."
+    ],
+    "related":[""],
+    "reference":"https://csrc.nist.gov/Projects/ssdf"
+}

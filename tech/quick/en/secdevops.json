@@ -1,0 +1,13 @@
+{
+    "title":"SecDevOps",
+    "description":"DevSecOps is an augmentation of DevOps to allow for security practices to be integrated into the DevOps approach.",
+    "key-ideas":[
+        "With SecDevOps software must be Secure By Design.",
+        "SecDevOps enables all teams to integrate security requirements and control into their components.",
+        "SecDevOps incorporates automatic security controls, testing, and review into the development lifecycle.",
+        "SecDevOps makes frequent use of SAST, DAST, and IAST, integrating them into CI/CD pipelines.",
+        "SecDevOps includes proper security training of team members."
+    ],
+    "related":["devops"],
+    "reference":"https://en.wikipedia.org/wiki/DevOps#DevSecOps,_Shifting_Security_Left"
+}

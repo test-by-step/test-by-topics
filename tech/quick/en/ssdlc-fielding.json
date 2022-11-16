@@ -1,0 +1,15 @@
+{
+    "title":"Fielding (SSDLC)",
+    "description":"The secure fielding, deployment, and implementation of software requires a standardized and rigorous process to demonstrate viability, acceptability, freedom from errors, freedom from vulnerabilities, and minimization of integration or implementation impact.",
+    "key-ideas":[
+        "Software must be tested for security before release or fielding.",
+        "Software should be validated in a separate staging environment.",
+        "Test with SAST, DAST, or IAST prior to release.",
+        "Changes and releases should be thoroughly documented along with each fielding.",
+        "A bug tracking system should be used to manage and address serious issues.",
+        "Code signing should be used to provide integrity checks of release bundles for customers.",
+        "A simple and secure security patching mechanism should be implemented."
+    ],
+    "related":[""],
+    "reference":""
+}
