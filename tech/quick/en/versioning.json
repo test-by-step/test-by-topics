@@ -1,0 +1,17 @@
+{
+    "title":"Versioning",
+    "description":"Software versioning is the process of assigning either unique version names or unique version numbers to unique states of computer software.",
+    "key-ideas":[
+        "Typically with versioning, changes in core functions or behavior will not occur in between versions.",
+        "Internal versioning - in which a revision number tracks the changes to the code base",
+        "External versioning - in which a version number identifies official released software packages",
+        "Versioning is often divided into Major and Minor versions, with patches being applied in between.",
+        "Semantic Versioning labels versions as Major.Minor.Patch.",
+        "Calendar Versioning labels versions with a variation of the date they were released on, such as 2022.10.",
+        "Significant changes in the software may be a cause for an organization to change versions.",
+        "Organizations that sell software versions as packages, rather than subscriptions, may also use major versions as distinct licensed products.",
+        "Major version numbers are sometimes used to group compatible applications and supplicants."
+    ],
+    "related":[""],
+    "reference":"https://en.wikipedia.org/wiki/Software_versioning"
+}

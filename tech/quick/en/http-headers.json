@@ -1,0 +1,20 @@
+{
+    "title":"Proper Hypertext Transfer Protocol (HTTP) headers",
+    "description":"Proper HTTP response headers can help prevent security vulnerabilities like Cross-Site Scripting, Clickjacking, Information disclosure and more.",
+    "key-ideas":[
+        "X-Frame-Options: DENY",
+        "X-XSS-Protection: 0",
+        "X-Content-Type-Options: nosniff",
+        "Referrer-Policy: strict-origin-when-cross-origin",
+        "Content-Type: text/html; charset=UTF-8",
+        "Use Set-Cookie to register a cookie value with the browser.",
+        "Strict-Transport-Security: max-age=63072000; includeSubDomains; preload",
+        "A good Content-Security-Policy hardens an application against cross site scripting (XSS) attacks.",
+        "Access-Control-Allow-Origin: https://yoursite.com",
+        "HTTP Cross-Origin-Opener-Policy: same-origin",
+        "Cross-Origin-Resource-Policy: same-site",
+        "Cross-Origin-Embedder-Policy: require-corp"
+    ],
+    "related":[""],
+    "reference":"https://cheatsheetseries.owasp.org/cheatsheets/HTTP_Headers_Cheat_Sheet.html"
+}

@@ -1,0 +1,22 @@
+{
+    "title":"OWASP Best Practices",
+    "description":"The Open Web Application Security Project Publishes a list of best practices for secure coding standards.",
+    "key-ideas":[
+        "Input Validation",
+        "Output Encoding",
+        "Authentication and Password Management",
+        "Session Management",
+        "Access Control",
+        "Cryptographic Practices",
+        "Error Handling and Logging",
+        "Data Protection",
+        "Communication Security",
+        "System Configuration",
+        "Database Security",
+        "File Management",
+        "Memory Management",
+        "General"
+    ],
+    "related":[""],
+    "reference":"https://owasp.org/www-pdf-archive/OWASP_SCP_Quick_Reference_Guide_v2.pdf"
+}

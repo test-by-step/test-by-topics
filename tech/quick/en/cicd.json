@@ -1,0 +1,16 @@
+{
+    "title":"Continuous Integration / Continuous Deliver (CI/CD)",
+    "description":"CI/CD bridges the gaps between development and operation activities and teams by enforcing automation in building, testing and deployment of applications.",
+    "key-ideas":[
+        "Continuous Integration is the frequent (i.e. daily or multiple times per day) merger of small, independent feature code changes back into the main code base.",
+        "Continous Delivery is the frequent (i.e. daily or multiple times per day) re-building and deployment of code changes accepted into the main repository.",
+        "CI/CD is a core part of Agile software development practices.",
+        "CI/CD is frequently associated with the Software Development Lifecycle (SDLC).",
+        "CI/CD is typically directly associated with a DevOps pipeline.",
+        "CI automates mergers, building, and testing.",
+        "CD automates packaging and staging.",
+        "Continous Deployment (rather than delivery) automatically deploys to production."
+    ],
+    "related":["devops"],
+    "reference":"https://en.wikipedia.org/wiki/CI/CD"
+}

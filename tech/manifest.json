@@ -113,6 +113,10 @@
         "secdevops":"SecDevOps",
         "agile":"Agile",
         "waterfall":"Waterfall",
-        "spiral":"Spiral"
+        "spiral":"Spiral",
+        "versioning":"Versioning",
+        "cicd":"Continuous Integration / Continous Delivery (CI/CD)",
+        "owasp-best-practices": "OWASP Best Practices",
+        "http-headers":"Proper Hypertext Transfer Protocol (HTTP) headers"
     }
 }
