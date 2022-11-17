@@ -15,6 +15,24 @@ DLP solutions need to have effective data identification, being able to identify
 
 DLP can be associated with True Positive, True Negative, False Positive, and False Negative rates. These are the rates at which the DLP software appropriately (TP, TN) or inappropriatelly (FP, FN) triggers data loss prevention measures.
 
+Some key DLP measures are:
+ Blocking use of external media
+- Print blocking
+- Remote Desktop
+Protocol (RDP) blocking
+- Clipboard privacy controls
+- Restricted virtual desktop
+infrastructure (VDI) implementation
+- Data classification blocking
+
+Some key DLP detection measures:
+
+- Watermarking
+- Digital rights management (DRM)
+- Network traffic decryption/
+deep packet inspection
+- Network traffic analysis
+
 ## Network DLP
 
 Network DLP detects data in motion as it travels the organizations network and can attempt to prevent its exfiltration or notify administrators to the data's transit.

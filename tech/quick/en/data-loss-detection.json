@@ -1,0 +1,13 @@
+{
+    "title":"Data Loss Detection",
+    "description":"Data loss detection are the tools, procedures, and methods used to discover and track data that has already been lost or leaked, or the discovery of leaking data.",
+    "key-ideas":[
+        "Data loss detection is a passive measure.",
+        "Watermarking",
+        "Digital rights management (DRM)",
+        "Network traffic decryption/deep packet inspection",
+        "Network traffic analysis"
+    ],
+    "related":[""],
+    "reference":""
+}

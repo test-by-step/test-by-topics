@@ -1,0 +1,11 @@
+{
+    "title":"Print Blocking",
+    "description":"Printing may be a way for a malicous or untrained user to leak data out of an organization.",
+    "key-ideas":[
+        "Printing avoids internal technical controls.",
+        "Blocking printing can prevent data loss.",
+        "A print server could possible provide restricted, controlled, and monitored access to printing."
+    ],
+    "related":[""],
+    "reference":""
+}

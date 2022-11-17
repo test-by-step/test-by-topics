@@ -1,0 +1,19 @@
+{
+    "title":"Digital Rights Management (DRM)",
+    "description":"DRM technologies govern the use, modification, and distribution of copyrighted works (such as software and multimedia content), as well as systems that enforce these policies within devices.",
+    "key-ideas":[
+        "DRM will often require the collaboration of system tools or media applications to enforce DRM controls.",
+        "DRM protects the ownership of proprietary data and media.",
+        "DRM participating softwares may prevent sharing / forwarding of data.",
+        "Set a time to live, limiting time or number of accesses for data",
+        "Limit access based on IP, or physical location",
+        "apply watermarks",
+        "License key registration",
+        "Persistant online session registration",
+        "Encryption",
+        "Watermarks",
+        "Embedded codes"
+    ],
+    "related":[""],
+    "reference":"https://en.wikipedia.org/wiki/Digital_rights_management"
+}

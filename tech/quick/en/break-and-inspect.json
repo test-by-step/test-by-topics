@@ -1,0 +1,17 @@
+{
+    "title":"Break and Inspect",
+    "description":"Break and Inspect is the process of decrypting network traffic in order to inspect the contents.",
+    "key-ideas":[
+        "Decrypt network traffic and deep inspection of network packets.",
+        "Associated with data loss prevention.",
+        "May be associated with antimalware.",
+        "Typically occurs at a forward proxy.",
+        "Organization devices are installed with a private certificate internal to the organization.",
+        "Forward proxy makes connection to HTTPS server on behalf of client.",
+        "Forward proxy decrypts connection to remote server and inspects traffic.",
+        "Forward proxy re-encrypts the HTTPS connection with its own certificate when replying to client.",
+        "Break and Inpsect can inspect connections to external services for the upload of protected data."
+    ],
+    "related":[""],
+    "reference":""
+}

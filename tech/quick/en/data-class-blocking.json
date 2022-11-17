@@ -1,0 +1,10 @@
+{
+    "title":"Data classification blocking",
+    "description":"Different data classifications may require different levels of protection for data loss.",
+    "key-ideas":[
+        "Data classification can allow for different DLP controls to be applied based on different data classification levels.",
+        "More sensitive data can be automatically blocked or filtered by dlp control systems."
+    ],
+    "related":[""],
+    "reference":""
+}

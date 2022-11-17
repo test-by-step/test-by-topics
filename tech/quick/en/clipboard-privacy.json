@@ -1,0 +1,13 @@
+{
+    "title":"Clipboard Privacy Controls",
+    "description":"Clipboards allow users to copy data with the intent of pasting it elsewhere. Poor protections on the clipboard may allow malicious applications to access data that should be protected.",
+    "key-ideas":[
+        "Typically, operating systems limit clipboard access to the foreground applications only.",
+        "Any application that is responsible for copying sensitive information to the clipboard should automatically clear the clipboard after a short timeout.",
+        "Cloud clipboard capabilities, or clipboards that are shared across devices, should be disabled.",
+        "Password managers that bypass the clipboard and insert passwords directly into the input field may be preferred.",
+        "In some mobile operating systems clipboards are typically implemented by the keyboard application, which must be vetted."
+    ],
+    "related":[""],
+    "reference":""
+}

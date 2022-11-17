@@ -1,0 +1,13 @@
+{
+    "title":"Remote Desktop Protocl (RDP) Blocking",
+    "description":"Blocking RDP can prevent data loss and harden against hackers gaining a foothold inside the intranet.",
+    "key-ideas":[
+        "RDP can be exploited by a hacker to gain an internal foothold into the intranet.",
+        "RDP can be exploited by an untrained or malicious user to steal or transfer data out of an organization.",
+        "RDP can be blocked through user, group, or device policies.",
+        "RDP can be blocked through HIPS or EDR applianecs.",
+        "RDP can be blocked by firewalls blocking services (port 3389)."
+    ],
+    "related":[""],
+    "reference":""
+}

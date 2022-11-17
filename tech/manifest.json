@@ -117,6 +117,17 @@
         "versioning":"Versioning",
         "cicd":"Continuous Integration / Continous Delivery (CI/CD)",
         "owasp-best-practices": "OWASP Best Practices",
-        "http-headers":"Proper Hypertext Transfer Protocol (HTTP) headers"
+        "http-headers":"Proper Hypertext Transfer Protocol (HTTP) headers",
+        "external-media-blocking":"External Media Blocking",
+        "print-blocking":"Print Blocking",
+        "rdp-blocking":"Remote Desktop Protocol (RDP) Blocking",
+        "clipboard-privacy":"Clipboard Privacy Controls",
+        "vdi-restrictions":"Restricted virtual desktop infrastructure (VDI) implementation",
+        "data-class-blocking":"Data classification blocking",
+        "data-loss-detection":"Data Loss Detection",
+        "watermarking":"Watermarking",
+        "drm":"Digital Rights Management (DRM)",
+        "break-and-inspect":"Break and Inspect",
+        "dlp-network-traffic-analysis":"Network Traffic Analysis (DLP)"
     }
 }

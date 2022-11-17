@@ -1,0 +1,15 @@
+{
+    "title":"Watermarking",
+    "description":"A digital watermark is a kind of marker covertly embedded in a noise-tolerant signal such as audio, video or image data. It is typically used to identify ownership of the copyright of such signal.",
+    "key-ideas":[
+        "Watermarking is a passive data loss mitigation measure", 
+        "Watermarking is associated with data loss detection.",
+        "Typically, a watermark will indicate ownership or source of a file.",
+        "Source tracking uses watermarks to identify the source of data loss by imparting small variations in the watermark of distributed copies of data.",
+        "Digital watermarks are typically hidden, causing imperceptible changes to the data or media that they are embedded in.",
+        "Watermarks may be interrupted by modifications of the file.",
+        "Identification of a digital watermark is often dependent on a known algorithm to expose, but is not cryptographic or 'secure'."
+    ],
+    "related":[""],
+    "reference":"https://en.wikipedia.org/wiki/Digital_watermarking"
+}

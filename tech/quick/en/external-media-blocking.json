@@ -1,0 +1,15 @@
+{
+    "title":"Blocking External Media",
+    "description":"External media may be used to leak data or to load malware onto a system; blocking external media can help mitigate.",
+    "key-ideas":[
+        "Group policies or endpoint protection appliances can block data connections, generate alerts/notifications, block user accounts, block devices.",
+        "External storage devices such as USB drives, external harddrives, or SD cards can be used to transfer data out of the organizations perimiter.",
+        "Blocking storage devices or data transfer out from USB can mitigate and provide DLP controls.",
+        "External media can use the automatic mounting process or autoplay feature to load malware onto a system.",
+        "HIPS or EDR solutions may be used to block data connections from USB devices.",
+        "External media devices may be modified to emulate an input device and send input commands without user input.",
+        "Good user education and training is requierd."
+    ],
+    "related":[""],
+    "reference":""
+}

@@ -1,0 +1,12 @@
+{
+    "title":"Network Traffic Analysis (DLP)",
+    "description":"Network Traffic Analysis can be used for data loss prevention and data loss detection by looking for abberations in the network traffic behavior.",
+    "key-ideas":[
+        "Connections to known file servers.",
+        "Connections to unapproved or unusual servers.",
+        "Large data transfers that could correspond to file uploads.",
+        "Connections at unusual times of the day."
+    ],
+    "related":[""],
+    "reference":""
+}

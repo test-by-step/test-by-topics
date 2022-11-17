@@ -1,0 +1,11 @@
+{
+    "title":"Restricted virtual desktop infrastructure (VDI) implementation",
+    "description":"VDI by construction allows data to travel outside of the premesis, requiring restrictions to prevent data loss.",
+    "key-ideas":[
+        "VDI should disable copy and paste features between virtual remote systems and the local desktop.",
+        "VDI should not allow printing unless through a print server to controlled printers.",
+        "VDI should disable screenshoting or screen recording where possible."
+    ],
+    "related":[""],
+    "reference":""
+}
